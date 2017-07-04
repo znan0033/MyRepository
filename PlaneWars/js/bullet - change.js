@@ -52,7 +52,7 @@ class Bullet{
 		//const 
 		const dieImgs = ["images2/die1.png", "images2/die2.png"]; 
 		let i = 0;
-		const dieTimer = setInterval(function(){
+		const dieTimer = setInterval(()=>{
 			if (i >= 1){
 				clearInterval(dieTimer); //停止爆炸
 				gameEngine.ele.removeChild(that.ele); //移除子弹
