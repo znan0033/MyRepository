@@ -1,0 +1,15 @@
+#main-wp{width: 100%;height: 600px;overflow: hidden;clear: both;background:url(../images/auth_bg_new.jpg) no-repeat center top;}
+#main-wp .main{width: 1180px;height: 600px;margin: 0 auto;}
+#main-wp .main .main-right{width: 366px;height: 540px;float: right;position: relative;padding:60px 50px 0 0;}
+#main-wp .main .title{width: 100%;margin-top: 45px;height: 20px;line-height: 20px;text-align: right;}
+#main-wp .main .title span{display: block;float: left;font-size:20px ;}
+#main-wp .main .main-right a{display: block;float: right;color: #000;}
+#main-wp .main .main-right a:hover{color: #ff8a81;}
+#main-wp .main .section{margin-top: 12px;background:url(../images/register-bj.png)no-repeat;padding:50px 20px;width: 326px;height: 340px;}
+#main-wp .main .section p{width: 280px;height: 56px;margin: 0 auto;text-align: left;}
+#main-wp .main .section input{width: 260px; height: 20px;line-height: 20px;padding: 6px 10px;color: #000;display: inline-block;background: #fff;vertical-align: middle;border:none;}
+#main-wp .main .section span{width: 280px;height: 22px;line-height: 22px;display: block;color: red;}
+#main-wp .main .section .p3{line-height:18px;height: 40px;}
+#main-wp .main .section .p3 input{float: left;display: block;width: 13px;height: 13px;}
+#main-wp .main .section .p4 input{width: 280px;height: 32px;background: #ff8a81;line-height: 32px;margin: 0 auto;text-align: center;cursor: pointer;color: #fff;padding: 0;border: none;}
+#main-wp .main .section .p4 input:hover{opacity: 0.85;}

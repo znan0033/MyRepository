@@ -1,0 +1,23 @@
+.banner{
+  height: 140px;
+}
+
+.banner .banner-item{
+  width: 25%;
+  float: left;
+}
+.banner .banner-item image{
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+}
+.banner .banner-item text{
+  display: block;
+  width: 100%;
+  text-align: center;
+  line-height: 20px;
+  height: 20px;
+  font-size: 12px;
+  color: #666;
+}

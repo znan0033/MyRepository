@@ -1,0 +1,21 @@
+
+<view class="page">
+  <!-- 轮播 -->
+  <swiper class="banner" 
+          indicator-dots="true" 
+          indicator-color="#ddd" 
+          indicator-active-color="#666" 
+          circular="true" >
+    <swiper-item 
+          wx:for="{{bannerList}}" 
+          wx:for-item="bannerPage">  
+
+			  <!--  每一页的item  -->
+			<view class="banner-item" wx:for="{{bannerPage}}">
+				<image src="{{item.imgPath}}"></image>
+				<text>{{item.name}}</text>
+			</view>
+    
+    </swiper-item>
+  </swiper>
+</view>

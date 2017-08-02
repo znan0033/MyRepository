@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <title></title>
+    <script src="../js/mui.min.js"></script>
+    <script src="../js/jquery-1.12.3.js"></script>
+    <script src="../js/swiper.jquery.min.js"></script>
+    <script src="../js/swiper.min.js"></script>
+    <link href="../css/mui.min.css" rel="stylesheet"/>
+    <link href="../css/swiper.min.css" rel="stylesheet"/>
+    <link href="../css/iconfont.css" rel="stylesheet"/>
+    <link href="../css/home.css" rel="stylesheet"/>
+    <script src="../js/home.js"></script>
+</head>
+<body>
+	<!--头部搜索-->
+	<header id="header" class="mui-bar mui-bar-nav mui-bar-transparent" data-top='40' data-offset='150' data-duration='16' data-scrollby=".mui-scroll-wrapper">
+		<a class="mui-tab-item city">
+            <span class="mui-tab-label">深圳</span>	
+            <span class="mui-icon iconfont icon-downarrow"></span>
+		</a>			
+		<form class="mui-input-group">
+		    <div class="mui-input-row mui-search">
+		        <input type="search" class="mui-input-clear" placeholder="请输入内容">
+		    </div>
+		</form>		
+		<a class="mui-tab-item saoma">
+            <span class="mui-icon iconfont icon-saoma"></span>
+            <span class="mui-tab-label">扫码</span>	
+		</a>			
+	</header>
+	
+
+	<!--主体-->
+	<div id="refreshContainer" class="mui-content mui-scroll-wrapper">		
+	<!--区域滚动-->
+	    <div class="mui-scroll">
+	        <!--这里放置真实显示的DOM内容-->		        
+	 		<!--banner图-->
+			<div class="banner">
+				<img src="../img/banner-1.png"/>
+			</div>					
+			<!--导购菜单-->
+			<div class="main1">
+			    <div class="swiper-container">
+			        <div class="swiper-wrapper">
+			            <ul class="swiper-slide list1">
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>美食</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>电影/演出</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>酒店住宿</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>休闲娱乐</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>外卖</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>火车/机票船</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>KTV</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>周边游</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>丽人/美发</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>跑腿代购</span>
+			            	</li>
+			            </ul>
+			            <ul class="swiper-slide list2">
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>高端酒店</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>运动健身</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>旅游出行</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>母婴亲子</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>婚纱摄影</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>足底按摩</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>清凉玩水</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>学习培训</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>家装</span>
+			            	</li>
+			            	<li>
+			            		<a href="#" class="iconfont"></a>
+			            		<span>全部分类</span>
+			            	</li>
+			            </ul>
+			        </div>
+			        <!-- Add Pagination -->
+			        <div class="swiper-pagination"></div>
+			    </div>				
+			</div>
+			<!--推荐-->
+			<div class="main2">
+				<div class="main2-1">
+					<img src="../img/main01.png"/>
+					<img src="../img/main02.png"/>
+					<img src="../img/main03.png"/>
+				</div>	
+				<div class="main2-2">
+					<img src="../img/main04.png"/>
+					<img src="../img/main05.png"/>
+					<img src="../img/main06.png"/>
+					<img src="../img/main07.png"/>
+				</div>	
+			</div>
+	    	<!--列表-->
+			<p class="main3-title">- 猜你喜欢 -</p>
+	    	<ul id="main3-list" class="mui-table-view">
+	    	</ul>
+	    </div>
+	</div>
+</body>
+</html>

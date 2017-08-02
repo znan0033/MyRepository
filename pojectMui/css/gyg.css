@@ -1,0 +1,16 @@
+
+#header{position: absolute;height:initial;box-shadow:none;padding: 0;}
+#header:after{ content: "";width: 100%;height: 1px;border-bottom: 1px solid #aaa;position: absolute;bottom: -1px;transform: scaleY(-0.5);}
+#header-title{width: auto;margin-top: 0.4rem;position: static;display: block;}
+
+#refreshContainer{padding-top: 65px;}
+#refreshContainer .mui-slider{color: #666;}
+#refreshContainer .mui-slider-indicator{background: #fff;}
+#refreshContainer .mui-active{color: #fe566d;}
+#refreshContainer .mui-control-item{width: 25%;}
+#refreshContainer #sliderProgressBar{background-color: #fe566d;position: absolute;left: 0;bottom: 0;}
+.mui-pull-top-pocket{top:56px ;}
+
+#refreshContainer .mui-navigate-right img{display: block;float: left; width: 2.25rem;padding-right: 0.1rem;box-sizing: border-box;}
+#refreshContainer .gyglisttitle{width: 100%;margin-bottom: 0.2rem; font-size: 0.32rem;color: #000;white-space:pre-wrap;}
+#refreshContainer .mui-table-view-cell .mui-navigate-right{outline: none;}

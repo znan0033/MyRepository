@@ -1,0 +1,187 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<script src="../js/mui.min.js"></script>
+		<script src="../js/jquery-1.12.3.js"></script>
+		<link href="../css/mui.min.css" rel="stylesheet" />
+		<link href="../css/iconfont.css" rel="stylesheet" />
+		<link href="../css/gyg.css" rel="stylesheet" />
+		<script src="../js/gyg.js"></script>
+	</head>
+
+	<body>
+		<div class="mui-content">
+		    <header id="header" class="mui-bar mui-bar-nav">
+		        <h1 id="header-title" class="mui-title">逛一逛</h1>
+		    </header>
+		</div>
+
+			<!--下拉刷新容器-->
+			<div id="refreshContainer" class="mui-content mui-scroll-wrapper">
+			  	<div class="mui-scroll">
+			    <!--数据列表-->
+			    	<div class="mui-slider" id="header-list">
+			    	    <div class="mui-slider-indicator mui-segmented-control mui-segmented-control-inverted">
+			    	        <a class="mui-control-item mui-active" href="#item1">精选</a>
+			    	        <a class="mui-control-item" href="#item2">享美食</a>
+			    	        <a class="mui-control-item" href="#item3">出去浪</a>
+			    	        <a class="mui-control-item" href="#item4">约电影</a>
+				    	    <div id="sliderProgressBar" class="mui-slider-progress-bar mui-col-xs-3"></div>
+			    	    </div>
+
+			    	    <div class="mui-slider-group">
+			    	        <div id="item1" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view gyglist">
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	    </ul>
+			    	        </div>
+			    	        <div id="item2" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view gyglist">
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	    </ul>
+			    	        </div>
+			    	        <div id="item3" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view gyglist">
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	    </ul>
+			    	        </div>
+			    	        <div id="item4" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view gyglist">
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">造价80亿元，在深圳附近有片蓝色庄园，世界总统也住过！</p>
+		    	        	                <img src="../img/gyg_01.png"/>
+		    	        	                <img src="../img/gyg_02.png"/>
+		    	        	                <img src="../img/gyg_03.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	        <li class="mui-table-view-cell">
+		    	        	            <a class="mui-navigate-right">
+			    	        	        	<p class="gyglisttitle">离广州2.5h，原始海景+童话民居，这块宝地秒杀广东90%的海滩</p>
+		    	        	                <img src="../img/gyg_04.png"/>
+		    	        	                <img src="../img/gyg_05.png"/>
+		    	        	                <img src="../img/gyg_06.png"/>
+		    	        	            </a>
+		    	        	        </li>
+		    	        	    </ul>
+			    	        </div>
+			    	    </div>
+			    	</div>
+				</div>
+			</div>
+	</body>
+
+</html>

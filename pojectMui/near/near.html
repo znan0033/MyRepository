@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<script src="../js/mui.min.js"></script>
+		<script src="../js/jquery-1.12.3.js"></script>
+		<link href="../css/mui.min.css" rel="stylesheet" />
+		<link href="../css/iconfont.css" rel="stylesheet" />
+		<link href="../css/near.css" rel="stylesheet" />
+		<script src="../js/near.js"></script>
+
+	</head>
+	<body>		
+		<div class="mui-content">
+		    <header id="header" class="mui-bar mui-bar-nav">
+		    	<div class="header-title">
+			        <a class="mui-tab-item city">
+			            <span class="mui-icon iconfont icon-dingwei"></span>
+			            <span class="mui-tab-label">深圳</span>	
+					</a>			
+			    	<div class="mui-input-row mui-search header-search">
+			    	    <input type="search" class="mui-input-clear" placeholder="找附近的吃喝玩乐">
+			    	</div>
+			    </div>
+		    </header>
+			<!--下拉刷新容器-->
+			<div id="refreshContainer" class="mui-content mui-scroll-wrapper">
+			  	<div class="mui-scroll">
+			    <!--数据列表-->
+			    	<div class="mui-slider" id="header-list">
+			    	    <div class="mui-slider-indicator mui-segmented-control mui-segmented-control-inverted">
+			    	        <a class="mui-control-item mui-active" href="#item1">享美食</a>
+			    	        <a class="mui-control-item" href="#item2">住酒店</a>
+			    	        <a class="mui-control-item" href="#item3">爱玩乐</a>
+			    	        <a class="mui-control-item" href="#item4">全部</a>
+				    	    <div id="sliderProgressBar" class="mui-slider-progress-bar mui-col-xs-3"></div>
+			    	    </div>
+
+			    	    <div class="mui-slider-group">
+			    	        <div id="item1" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view item-title">
+			    	        	        <li class="item-title-table item-active">
+			    	        	            <span class="mui-navigate-right">
+			    	        	                	热门	
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+			    	        	                	 小吃快餐
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+			    	        	               	  面包甜点
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+			    	        	               	 湘菜
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+												川菜
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+			    	        	               	  台湾/客家菜
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+			    	        	               	 湖北菜
+			    	        	            </span>
+			    	        	        </li>
+			    	        	        <li class="item-title-table">
+			    	        	            <span class="mui-navigate-right">
+												东北菜
+			    	        	            </span>
+			    	        	    </ul>
+								<ul class="mui-table-view">
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list1.jpg">
+											<div class="mui-media-body">
+												<span>麦克派炸鸡汉堡</span>
+												<p class="mui-ellipsis">[双龙]麦克派单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice">
+													<strong>9.9元</strong>
+													<span>门市价：20元</span>
+													<i>已售2671</i>
+												</p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list2.jpg">
+											<div class="mui-media-body"><span>大汉堡</span>
+												<p class="mui-ellipsis">[15店通用]全家桶套餐，建议2-3人使用</p>
+												<p class="Itemsprice"><strong>48元</strong><span>门市价：78元</span><i>已售2704</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list3.jpg">
+											<div class="mui-media-body"><span>蒙自源过桥米线</span>
+												<p class="mui-ellipsis">[固戍]主食3选1，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>11.9元</strong><span>门市价：16元</span><i>已售11935</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list4.jpg">
+											<div class="mui-media-body"><span>澳客100炸鸡汉堡</span>
+												<p class="mui-ellipsis">[5店通用]精选单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>13.9元</strong><span>门市价：20.5元</span><i>已售13574</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list5.jpg">
+											<div class="mui-media-body"><span>非饭不可</span>
+												<p class="mui-ellipsis">[深圳等]招牌轰鸡饭套餐，建议单人使用</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：38.8元</span><i>已售1390</i></p>
+											</div>
+										</a>
+									</li>
+								</ul>
+			    	        </div>
+			    	        <div id="item2" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view item-title">
+		    	        	        <li class="item-title-table item-active">
+		    	        	            <span class="mui-navigate-right">
+		    	        	                	热门	
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	                	 小吃快餐
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	  面包甜点
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	 湘菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+											川菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	  台湾/客家菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	 湖北菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+											东北菜
+		    	        	            </span>
+		    	        	        </li>
+			    	        	</ul>
+								<ul class="mui-table-view">
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list1.jpg">
+											<div class="mui-media-body"><span>麦克派炸鸡汉堡</span>
+												<p class="mui-ellipsis">[双龙]麦克派单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：20元</span><i>已售2671</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list2.jpg">
+											<div class="mui-media-body"><span>大汉堡</span>
+												<p class="mui-ellipsis">[15店通用]全家桶套餐，建议2-3人使用</p>
+												<p class="Itemsprice"><strong>48元</strong><span>门市价：78元</span><i>已售2704</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list3.jpg">
+											<div class="mui-media-body"><span>蒙自源过桥米线</span>
+												<p class="mui-ellipsis">[固戍]主食3选1，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>11.9元</strong><span>门市价：16元</span><i>已售11935</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list4.jpg">
+											<div class="mui-media-body"><span>澳客100炸鸡汉堡</span>
+												<p class="mui-ellipsis">[5店通用]精选单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>13.9元</strong><span>门市价：20.5元</span><i>已售13574</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list5.jpg">
+											<div class="mui-media-body"><span>非饭不可</span>
+												<p class="mui-ellipsis">[深圳等]招牌轰鸡饭套餐，建议单人使用</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：38.8元</span><i>已售1390</i></p>
+											</div>
+										</a>
+									</li>
+								</ul>
+			    	        </div>
+			    	        <div id="item3" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view item-title">
+		    	        	        <li class="item-title-table item-active">
+		    	        	            <span class="mui-navigate-right">
+		    	        	                	热门	
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	                	 小吃快餐
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	  面包甜点
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	 湘菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+											川菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	  台湾/客家菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	 湖北菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+											东北菜
+		    	        	            </span>
+		    	        	        </li>
+			    	        	</ul>
+								<ul class="mui-table-view">
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list1.jpg">
+											<div class="mui-media-body"><span>麦克派炸鸡汉堡</span>
+												<p class="mui-ellipsis">[双龙]麦克派单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：20元</span><i>已售2671</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list2.jpg">
+											<div class="mui-media-body"><span>大汉堡</span>
+												<p class="mui-ellipsis">[15店通用]全家桶套餐，建议2-3人使用</p>
+												<p class="Itemsprice"><strong>48元</strong><span>门市价：78元</span><i>已售2704</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list3.jpg">
+											<div class="mui-media-body"><span>蒙自源过桥米线</span>
+												<p class="mui-ellipsis">[固戍]主食3选1，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>11.9元</strong><span>门市价：16元</span><i>已售11935</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list4.jpg">
+											<div class="mui-media-body"><span>澳客100炸鸡汉堡</span>
+												<p class="mui-ellipsis">[5店通用]精选单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>13.9元</strong><span>门市价：20.5元</span><i>已售13574</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list5.jpg">
+											<div class="mui-media-body"><span>非饭不可</span>
+												<p class="mui-ellipsis">[深圳等]招牌轰鸡饭套餐，建议单人使用</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：38.8元</span><i>已售1390</i></p>
+											</div>
+										</a>
+									</li>
+								</ul>
+			    	        </div>
+			    	        <div id="item4" class="mui-slider-item mui-control-content">
+			    	        	<ul class="mui-table-view item-title">
+		    	        	        <li class="item-title-table item-active">
+		    	        	            <span class="mui-navigate-right">
+		    	        	                	热门	
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	                	 小吃快餐
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	  面包甜点
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	 湘菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+											川菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	  台湾/客家菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+		    	        	               	 湖北菜
+		    	        	            </span>
+		    	        	        </li>
+		    	        	        <li class="item-title-table">
+		    	        	            <span class="mui-navigate-right">
+											东北菜
+		    	        	            </span>
+		    	        	        </li>
+			    	        	</ul>
+								<ul class="mui-table-view">
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list1.jpg">
+											<div class="mui-media-body"><span>麦克派炸鸡汉堡</span>
+												<p class="mui-ellipsis">[双龙]麦克派单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：20元</span><i>已售2671</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list2.jpg">
+											<div class="mui-media-body"><span>大汉堡</span>
+												<p class="mui-ellipsis">[15店通用]全家桶套餐，建议2-3人使用</p>
+												<p class="Itemsprice"><strong>48元</strong><span>门市价：78元</span><i>已售2704</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list3.jpg">
+											<div class="mui-media-body"><span>蒙自源过桥米线</span>
+												<p class="mui-ellipsis">[固戍]主食3选1，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>11.9元</strong><span>门市价：16元</span><i>已售11935</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list4.jpg">
+											<div class="mui-media-body"><span>澳客100炸鸡汉堡</span>
+												<p class="mui-ellipsis">[5店通用]精选单人套餐，提供免费WiFi</p>
+												<p class="Itemsprice"><strong>13.9元</strong><span>门市价：20.5元</span><i>已售13574</i></p>
+											</div>
+										</a>
+									</li>
+									<li class="mui-table-view-cell mui-media">
+										<a href="javascript:;"><img class="mui-media-object mui-pull-left" src="../img/list5.jpg">
+											<div class="mui-media-body"><span>非饭不可</span>
+												<p class="mui-ellipsis">[深圳等]招牌轰鸡饭套餐，建议单人使用</p>
+												<p class="Itemsprice"><strong>9.9元</strong><span>门市价：38.8元</span><i>已售1390</i></p>
+											</div>
+										</a>
+									</li>
+								</ul>
+			    	        </div>
+			    	    </div>
+			    	</div>	
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

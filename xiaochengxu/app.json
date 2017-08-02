@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/home/home/home",
+    "pages/discover/discover/discover",
+    "pages/order/order/order",
+    "pages/me/me/me"
+  ],
+  "window": {
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0af",
+    "navigationBarTitleText": "饿了么",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#0af",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/home/home/home",
+        "text": "外卖",
+        "iconPath": "images/tabsicon/1.jpeg",
+        "selectedIconPath": "images/tabsicon/1.jpeg"
+      },
+      {
+        "pagePath": "pages/discover/discover/discover",
+        "text": "发现",
+        "iconPath": "images/tabsicon/2.jpeg",
+        "selectedIconPath": "images/tabsicon/2.jpeg"
+      },
+      {
+        "pagePath": "pages/order/order/order",
+        "text": "订单",
+        "iconPath": "images/tabsicon/3.jpeg",
+        "selectedIconPath": "images/tabsicon/3.jpeg"
+      },
+      {
+        "pagePath": "pages/me/me/me",
+        "text": "我的",
+        "iconPath": "images/tabsicon/4.jpeg",
+        "selectedIconPath": "images/tabsicon/4.jpeg"
+      }
+    ]
+  }
+}

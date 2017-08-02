@@ -1,0 +1,42 @@
+.main input{border: none;color: #666;background: #fff;}
+#main-wp{width: 100%;background: #fff;}
+#main-wp .main{width: 1180px;margin: 0 auto;position: relative;}
+.main .title{width: 1180px;border-bottom: 1px solid #000;}
+.main .title p{display: inline-block;height: 50px;line-height: 70px;text-align: center;}
+.main .title .p1{width: 194px;margin-right: 46px;}
+.main .title .p2{width: 426px;}
+.main .title .p3{width: 200px;}
+.main .title .p4{width: 200px;}
+.main .title .p5{width: 100px;}
+.main .list{width: 1180px;min-height: 98px;}
+.main .list li{width:100%;height:96px;border-bottom:1px solid #eee;line-height:96px;}
+.main .list li img{display:block;float:left;margin:13px 10px 0 0;float: left;}
+.main .list li input{float: left;margin:36px 0 0 5px;}
+.main .list li a{display:inline-block;float: left;}
+.main .list li a:hover{color:#ff8a81;}
+.main .list li span{display:block;float:right;width: 200px;height: 96px;margin-right: 50px;text-align: center;}
+.main .list .minus{width: 20px;height: 24px;cursor:pointer;border:1px solid #666;float: right;text-align: center;}
+.main .list .number{width: 50px;height: 20px;text-align:center;border:1px solid #666;float: right;}
+.main .list .plus{width: 20px;height: 24px;cursor:pointer;border:1px solid #666;float: right;margin-right: 80PX;text-align: center;}
+.main .list .delete{cursor:pointer;float: right;margin-right: 30px;}
+.main .bottom{width: 1180px;height: 150px;}
+.bottom-01{height: 80px;line-height: 80px;float: left;}
+.bottom-02{height: 80px;line-height: 80px;float: right;}
+.bottom-02 div{width: 160px;margin-left: 35px;display:block;float: left;}
+.bottom-02 div span{color:#ff8a81;width: 80px;display: block;float: right; overflow: hidden;}
+.main .bottom input{cursor: pointer;}
+.bottom-03 input{width: 130px;height: 30px;background:#ff8a81 ;color: #fff;position: absolute;bottom:40px;right:30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,98 @@
+/* 320-350 */
+@media only screen and (min-width: 320px) and (max-width: 350px) { html{ font-size: 42.66px; } }
+/* 350-360 */
+@media only screen and (min-width: 350px) and (max-width: 360px) { html{ font-size: 46.66px; } }
+/* 360-375 */
+@media only screen and (min-width: 360px) and (max-width: 375px) { html{ font-size: 48px; } }
+/* 375-400 */
+@media only screen and (min-width: 375px) and (max-width: 400px) { html{ font-size: 50px; } }
+/* 400-420 */
+@media only screen and (min-width: 400px) and (max-width: 420px) { html{ font-size: 53.33px; } }
+/* 420-640 */
+@media only screen and (min-width: 420px) and (max-width: 640px) { html{ font-size: 56px; } }
+@media only screen and (min-width: 640px) and (max-width: 750px) { html{ font-size: 100px; } }
+@media only screen and (min-width: 750px){ html{ font-size: 100px; } }
+
+/************** 分割线 ****************/
+@charset "utf-8";
+/* CSS Document */
+body,html,ul,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,img{margin:0;padding:0;}
+body{color:#000; font-size:0.16px "SimSun","宋体","Arial Narrow",HELVETICA;}
+h1,h2,h3,h4,h5,h6,b,strong{font-weight:100;}
+a,a:hover,a:active,a:visited,a:link,a:focus{ -webkit-tap-highlight-color:rgba(0,0,0,0); -webkit-tap-highlight-color: transparent;outline:none; background: none;  text-decoration: none; }
+ul,ol,li{list-style:none;}
+img{display: block;border:none;}
+input,a{outline:none;} 
+.clear:after{content:".";clear:both;display:black;height:0;overflow:hidden;}
+
+/*iconfont*/
+@font-face {font-family: "iconfont";
+  src: url('../font/iconfont.eot?t=1489462373204'); /* IE9*/
+  src: url('../font/iconfont.eot?t=1489462373204#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../font/iconfont.woff?t=1489462373204') format('woff'), /* chrome, firefox */
+  url('../font/iconfont.ttf?t=1489462373204') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../font/iconfont.svg?t=1489462373204#iconfont') format('svg'); /* iOS 4.1- */
+}
+.iconfont {
+  font-family:"iconfont" !important;font-size:0.16rem;font-style:normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.text-icon {font-family: base_icon;display: inline-block;vertical-align: middle;font-style: normal;}
+
+/*滚动模块样式*/
+#content{width: 100%;position: absolute;top: 0;left: 0;bottom: 49px;overflow: hidden;}
+.swiper-container{width: 100%;height: 100%;}
+
+
+/*头部搜索栏*/
+#header{width: 100%;height: 1.20rem;position: absolute;top: 0;left: 0; box-sizing: border-box;z-index: 1;}
+.city-left{z-index: 1;position: absolute;top: 0.65rem;left: 0.3rem;border: none;color: #fff;font-size: 0.28rem;}
+.search{width: 4.16rem;height: 0.56rem;line-height: 0.56rem;z-index: 3;position: absolute;top: 0.56rem;left: 50%;transform: translate(-50%);}
+.search input{width: 100%;height: 100%;border: none;border-radius: 0.3rem;padding-left: 0.6rem;color: #666;float: right;box-sizing:border-box ;font-size: 0.28rem;}
+.fdj{width: 0.27rem;height: 0.27rem;background: url(../img/fangdajing.png)no-repeat;background-size: 100% 100%;z-index: 2;position: absolute;top: 50%;left: 0.2rem;transform: translateY(-50%);}
+.saoma{z-index: 1;position: absolute;top: 0.65rem;right: 0.25rem;color: #fff;font-size: 0.28rem;}
+.saoma i{display: block;width: 0.38rem;height: 0.34rem;float: left;margin-right: 0.1rem;margin-top: 2px;font-size: 0.4rem;margin-top: -1px;}
+.city-left .text-icon {font-family: base_icon; display: inline-block;vertical-align: middle;font-style: normal;}
+.icon-downarrow:after {content: '';display: inline-block;position: relative;top: -.2em;width: .5em;height: .5em;margin-left: 5px;border-bottom: .03rem solid #fff;border-left: .03rem solid #fff;-webkit-transform: scaleX(0.7) rotateZ(-45deg);-moz-transform: scaleX(0.7) rotateZ(-45deg);-ms-transform: scaleX(0.7) rotateZ(-45deg);}
+#header{box-shadow: none; background:rgba(6,193,174,0);}
+
+
+/*下拉刷新*/
+.loding{width: 100%;height: 50px; line-height:50px;padding-top: 10px;box-sizing: border-box;position: relative;}
+.loding img{height: 50%;margin-left: 30%;}
+.loding span{display: block;position: absolute;top: 0;left: 40%; font-size: 0.3rem;}
+.loding .up{transform: rotate(180deg);}
+/*上拉加载更多*/
+.loding2{width: 100%;height: 50px; line-height:50px;padding-top: 10px;box-sizing: border-box;position: relative;}
+.loding2 img{height: 50%;margin-left: 30%;}
+.loding2 span{display: block;position: absolute;bottom: 0;left: 40%; font-size: 0.3rem;}
+.loding2 .down{transform: rotate(180deg);}
+
+
+/*商品列表样式*/
+.Items{width: 100%;}
+.Items li{width: 100%;height: 2.39rem; padding: 0.26rem;box-sizing: border-box;background: #fff;position: relative;float: left;}
+.Items li:before{content: "";display: block;width: 100%;height: 1px;border-top:1px solid #e5e5e5 ;position: absolute;top: -1px;left: 0;transform: scaleY(0.5);}
+.Items li img{width: 1.92rem;height: 1.92rem;float: left;margin-right: 0.2rem;}
+.Items .Itemsname{display: block;width: 65%; float: left; font-size:0.32rem ;margin-bottom: 0.2rem;}
+.Items .Itemsxq{display: block;width: 65%; float: left; font-size:0.24rem ;color: #999;margin-bottom: 0.5rem;}
+.Items .Itemsprice{display: block;width: 65%; float: left; font-size:0.24rem ;color: #999;}
+.Items .Itemsprice strong{font-size: 0.32rem;color: #06c1ae;}
+.Items .Itemsprice i{display: block;float: right;}
+/*底部导航*/
+#footer{width: 100%;height:49px;position: absolute;bottom: 0;left: 0;display: flex;font-size: 0.18rem;color: #a19e96;}
+#footer a{flex-grow: 1;flex-flow:column;text-align: center;line-height: 24px;font-size: 14px;}              
+#footer i{display: block;width: 0.45rem;height: 0.45rem;line-height:0.45rem;margin: 0 auto;margin-top: 0.14rem;font-size: 0.5rem;}
+.active{color: #06C1AD;}
+#footer:before{content: "";display: block;width: 100%;height: 1px;border-top:1px solid #b7b7b7 ;position: absolute;top: -1px;left: 0;transform: scaleY(0.5);}
+
+
+
+
+
+
+
+
+
+
+
+
+

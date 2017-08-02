@@ -1,0 +1,85 @@
+/* 320-350 */
+@media only screen and (min-width: 320px) and (max-width: 350px) { html{ font-size: 42.66px; } }
+/* 350-360 */
+@media only screen and (min-width: 350px) and (max-width: 360px) { html{ font-size: 46.66px; } }
+/* 360-375 */
+@media only screen and (min-width: 360px) and (max-width: 375px) { html{ font-size: 48px; } }
+/* 375-400 */
+@media only screen and (min-width: 375px) and (max-width: 400px) { html{ font-size: 50px; } }
+/* 400-420 */
+@media only screen and (min-width: 400px) and (max-width: 420px) { html{ font-size: 53.33px; } }
+/* 420-640 */
+@media only screen and (min-width: 420px) and (max-width: 640px) { html{ font-size: 56px; } }
+@media only screen and (min-width: 640px) and (max-width: 750px) { html{ font-size: 100px; } }
+@media only screen and (min-width: 750px){ html{ font-size: 100px; } }
+
+/************** 分割线 ****************/
+@charset "utf-8";
+/* CSS Document */
+body,html,ul,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,img{margin:0;padding:0;}
+body{color:#000; font-size:0.16rem "SimSun","宋体","Arial Narrow",HELVETICA;}
+h1,h2,h3,h4,h5,h6,{font-weight:100;}
+a,a:hover,a:active,a:visited,a:link,a:focus{ -webkit-tap-highlight-color:rgba(0,0,0,0); -webkit-tap-highlight-color: transparent;outline:none; background: none;  text-decoration: none; }
+ul,ol,li{list-style:none;}
+img{display: block;border:none;}
+input,a{outline:none;} 
+.clear:after{content:".";clear:both;display:black;height:0;overflow:hidden;}
+
+@font-face {font-family: "iconfont";
+        src:url('../fonts/iconfont.ttf') format('truetype'); /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    }
+
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:0.14rem;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+}
+
+.icon-home:before { content: "\e648"; }
+.icon-dingwei:before { content: "\e60a"; }
+.icon-diqiu:before { content: "\e601"; }
+.icon-dingdan:before { content: "\e627"; }
+.icon-me:before { content: "\e61a"; }
+.icon-downarrow:before { content: "\e609"; }
+.icon-saoma:before { content: "\e644"; }
+.icon-meishi:before { content: "\e655"; }
+
+
+
+
+.list1 li:nth-of-type(1) a:before{content: "\e655";}
+.list1 li:nth-of-type(2) a:before{content: "\e692";}
+.list1 li:nth-of-type(3) a:before{content: "\e6b8";}
+.list1 li:nth-of-type(4) a:before{content: "\e600";}
+.list1 li:nth-of-type(5) a:before{content: "\e62d";}
+.list1 li:nth-of-type(6) a:before{content: "\e628";}
+.list1 li:nth-of-type(7) a:before{content: "\e6a2";}
+.list1 li:nth-of-type(8) a:before{content: "\e898";}
+.list1 li:nth-of-type(9) a:before{content: "\e624";}
+.list1 li:nth-of-type(10) a:before{content: "\e629";}
+
+.list2 li:nth-of-type(1) a:before{content: "\e63f";}
+.list2 li:nth-of-type(2) a:before{content: "\e70a";}
+.list2 li:nth-of-type(3) a:before{content: "\e611";}
+.list2 li:nth-of-type(4) a:before{content: "\e617";}
+.list2 li:nth-of-type(5) a:before{content: "\e619";}
+.list2 li:nth-of-type(6) a:before{content: "\e647";}
+.list2 li:nth-of-type(7) a:before{content: "\e612";}
+.list2 li:nth-of-type(8) a:before{content: "\e64e";}
+.list2 li:nth-of-type(9) a:before{content: "\e62c";}
+.list2 li:nth-of-type(10) a:before{content: "\e6b0";}
+
+
+
+
+
+
+
+
+
+
+
+
+
