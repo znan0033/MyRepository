@@ -1,0 +1,87 @@
+#Movies{
+	padding: 0 15px;
+	box-sizing: border-box;
+	background: #fff;
+}
+#Movies .movies-title{
+	width: 100%;
+	height: 45px;
+	border-bottom: 1px solid #fe6e00;
+	box-sizing: border-box;
+}
+#Movies .movies-title p{
+	display: block;
+	width: 50%;
+	height: 100%;
+	float: left;
+	line-height: 45px;
+	text-align: center;
+}
+#Movies .movies-title p.active{
+	color: #fe6e00;
+	border-bottom: 2px solid #fe6e00;
+	box-sizing: border-box;
+}
+#Movies .movies-list{
+	position: absolute;
+	width: 100%;
+	top: 45px;
+	bottom: 0;
+	left: 0;
+	padding: 0 15px;
+	box-sizing: border-box;
+	overflow: auto;
+}
+#Movies .movies-list li{
+	width: 100%;
+	border-bottom: 1px dashed #c9c9c9;
+	padding: 20px 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+#Movies .movies-list li .img{
+	float: left;
+	width: 21%;
+	overflow: hidden;
+}
+#Movies .movies-list li .img img{
+	width: 100%;
+}
+#Movies .movies-list li p{
+	display: block;
+	float: left;
+	width: 79%;
+	padding-left: 15px;
+	line-height: 28px;
+	color: #999;
+	box-sizing: border-box;
+}
+
+#Movies .movies-list li p:nth-of-type(1) span{
+	color: #000;
+	font-size: 16px;
+	display: block;
+	width: 80%;
+	float: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space:nowrap;
+}
+#Movies .movies-list li p:nth-of-type(1) b{
+	display: block;
+	font-size: 16px;
+	color:#fe6e00 ;
+	float: right;
+	margin-right: 15px;
+}
+
+#Movies .movies-list li p:nth-of-type(3) span{
+	color: #8aa2bf;
+}
+#Movies .movies-list li p:nth-of-type(3) span:nth-of-type(2){
+	margin-left: 30px;
+}
+
+#Movies .movies-list li p{
+	font-size: 12px;
+}

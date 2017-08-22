@@ -1,0 +1,151 @@
+#Stop{
+	overflow-y: auto;
+}
+.stop-banner{
+	width: 100%;
+	height: 92px;
+}
+.stop-banner img{
+	width: 100%;
+}
+.stop-nav{
+	width: 100%;
+	padding: 15px 0;
+	background: #fff;
+	box-sizing: border-box;
+	overflow:hidden;
+}
+.stop-nav li{
+	width: 25%;
+	height: 60px;
+	margin: 8px 0;
+	text-align: center;
+	float: left;
+}
+.stop-nav li span{
+	margin-top: 10px;
+	font-size: 12px;
+}
+.stop-nav li img{
+	width: 50%;
+	margin: 0 auto;
+}
+.stop-listData1{
+	width: 100%;
+	padding: 0 10px;
+	box-sizing: border-box;
+	background: #fff;
+	overflow: hidden;
+	margin-top: 10px;
+}
+.stop-listData1 img{
+	float: left;
+	width: 50%;
+	padding: 10px 0 10px 2.5px;
+	box-sizing: border-box;
+}
+.stop-listData>p{
+	text-align: center;
+	line-height: 30px;
+	font-size: 14px;
+}
+.stop-listData .list{
+	width: 100%;
+	background: #fff;
+	margin-top: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.stop-listData .list .img{
+	width: 100%;
+}
+.stop-listData .list>div{
+	white-space: nowrap;
+	overflow-x: auto;
+	overflow-y: hidden;
+	height: 154px;
+	padding-top: 10px;
+}
+
+.stop-listData .list div>div{
+	display: inline-block;
+	width: 90px;
+	height: 100%;
+	box-sizing: border-box;
+	overflow: hidden;
+	color: #f40;
+	font-size: 13px;
+}
+.stop-listData .list div>div img{
+	width: 85px;
+	margin-right: 5px;
+}
+.stop-listData .list div>div p{
+    width: 100%;
+    display: block;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+ 	color: #333;
+   	font-size: 12px;
+   	margin: 10px 0;
+}
+.stop-listData .list>div>div:nth-last-of-type(1){
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 154px;
+}
+.stop-listData .list>div>div:nth-last-of-type(1) span{
+	border: 1px solid #999;
+    padding: 15px;
+    border-radius: 50%;
+    color: #999;
+}
+.stop-product-list{
+	width: 100%;
+	padding: 0 8px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.stop-product-list li{
+	float: left;
+	width: 48%;
+	height: 215px;
+	background: #fff;
+	margin: 3px;
+	padding-bottom: 10px;
+	font-size: 12px;
+	box-sizing: border-box;
+}
+.stop-product-list li img{
+	width: 100%;
+	margin-bottom: 5px;
+}
+.stop-product-list li p{
+	width: 100%;
+	padding-left: 5px;
+}
+.stop-product-list li p:nth-of-type(1){
+	height: 38px;
+}
+.stop-product-list li span{
+	color: #999;
+}
+.stop-product-list li b{
+	color: #f40;
+	margin-right: 20px;
+	font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+

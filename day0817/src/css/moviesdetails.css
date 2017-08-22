@@ -1,0 +1,10 @@
+.movies-details{
+	width: 100%;
+	height: 100%;
+}
+.movies-details img{
+	width: 100%;
+}
+.movies-details div{
+	padding-left: 20px;
+}
