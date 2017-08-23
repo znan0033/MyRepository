@@ -84,7 +84,6 @@ export default class Stop extends Component{
 		//列表数据
 		StopServices.getStopHeaderListData()
 		.then((res)=>{
-			console.log(res)
 			this.setState({bannerData : res[0]});
 			this.setState({navData : res[1]});
 			this.setState({listData1 : res[2]});

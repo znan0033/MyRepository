@@ -1,0 +1,5913 @@
+{
+	"status": 0,
+	"data": {
+		"cinemas": [
+			{
+				"id": 2791,
+				"name": "卢米埃深圳华强北九方IMAX影城",
+				"pinyin": "lmaszhqbjfIMAXyc",
+				"address": "深圳福田区中航路1号华强北九方购物中心4楼（南区）L428",
+				"geocode": {
+					"latitude": 22.54919164549073,
+					"longitude": 114.09082729852025
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "",
+						"name": "iMax"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 591,
+				"name": "深圳ZCV布吉影城",
+				"pinyin": "szZCVbjyc",
+				"address": "广东省深圳市龙岗区布吉街道慢城1号楼商铺106-109",
+				"geocode": {
+					"latitude": 22.6304406247842,
+					"longitude": 114.13800996565826
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 230,
+				"name": "深圳中影世纪星晖影城",
+				"pinyin": "szzysjxhyc",
+				"address": "深圳市福田区渔农村福田口岸商业广场（水立方旁）",
+				"geocode": {
+					"latitude": 22.521518399925633,
+					"longitude": 114.07928860943997
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 911,
+				"name": "德信影城深圳世纪广场店",
+				"pinyin": "dxycszsjgcd",
+				"address": "深圳市龙岗区中心城龙平西路瑞华园祥情世纪广场2楼",
+				"geocode": {
+					"latitude": 22.735141499393418,
+					"longitude": 114.22448294886863
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3994,
+				"name": "深圳易时代影院",
+				"pinyin": "szysdyy",
+				"address": "深圳市宝安区西乡街道固戍社区勤辉路2号A栋三楼（固戍一路新日高百货）",
+				"geocode": {
+					"latitude": 22.605048485005124,
+					"longitude": 113.85735448448989
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 912,
+				"name": "深圳博纳国际影城皇庭店",
+				"pinyin": "szbngjychtd",
+				"address": "深圳市福田区福华三路118号皇庭广场B1-3",
+				"geocode": {
+					"latitude": 22.539494215353763,
+					"longitude": 114.0659083371953
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4600,
+				"name": "深圳佳兆业国际影城布吉影院",
+				"pinyin": "szjzygjycbjyy",
+				"address": " 深圳市龙岗区布吉街道龙岗大道2288号佳兆业广场L3层308号",
+				"geocode": {
+					"latitude": 22.612876,
+					"longitude": 114.137337
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4601,
+				"name": "深圳百川影城IMAX新沙天虹店",
+				"pinyin": "szbcycIMAXxsthd",
+				"address": "广东省深圳市宝安区沙井街道2105号天虹商城七楼",
+				"geocode": {
+					"latitude": 22.734718958936572,
+					"longitude": 113.80697018762216
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3996,
+				"name": "大地数字影院-深圳沙井裕客隆",
+				"pinyin": "ddszyy-szsjykl",
+				"address": "深圳市宝安区沙井街道办裕客隆百货广场4楼",
+				"geocode": {
+					"latitude": 22.73473931912149,
+					"longitude": 113.81424515791096
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 915,
+				"name": "深圳中影UL城市影城坪山店",
+				"pinyin": "szzyULcsycpsd",
+				"address": "深圳市坪山新区街道建设路49号泰华商城4楼(街道办大门对面) ",
+				"geocode": {
+					"latitude": 22.696534871672064,
+					"longitude": 114.35228987729266
+				},
+				"district": {
+					"id": 0,
+					"name": "坪山新区",
+					"pinyin": "ping-shan-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2309,
+				"name": "深圳华夏君盛影城平湖店",
+				"pinyin": "szhxjsycphd",
+				"address": "深圳市龙岗区平湖街道富安大道熙璟城购物中心2F",
+				"geocode": {
+					"latitude": 22.689058,
+					"longitude": 114.14259
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 916,
+				"name": "深圳中影UL城市影院乐尚店",
+				"pinyin": "szzyULcsyylsd",
+				"address": "宝安区裕安一路乐尚生活广场2楼2楼",
+				"geocode": {
+					"latitude": 22.569705506421908,
+					"longitude": 113.89656507622456
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 917,
+				"name": "深圳中影UL城市影院坪地店",
+				"pinyin": "szzyULcsyypdd",
+				"address": "深圳市龙岗区坪地浩天购物广场四楼",
+				"geocode": {
+					"latitude": 22.774155965307397,
+					"longitude": 114.3135442152525
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 480,
+				"name": "深圳汉鼎宇佑影城（星海名城店）",
+				"pinyin": "szhdyyyc（xhmcd）",
+				"address": "深圳市南山区深南路前海路西南侧星海名城七期6楼（前海天虹六楼）",
+				"geocode": {
+					"latitude": 22.546648,
+					"longitude": 113.920732
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 241,
+				"name": "深圳金逸影城建安店",
+				"pinyin": "szjyycjad",
+				"address": "深圳市宝安区建安二路河东骏丰园首层",
+				"geocode": {
+					"latitude": 22.590545170638098,
+					"longitude": 113.89177958897777
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1,
+				"name": "深圳市太平洋电影城(东海店)",
+				"pinyin": "szstpydyc(dhd)",
+				"address": "福田区香蜜湖红荔路8099号东海购物广场四楼",
+				"geocode": {
+					"latitude": 22.546953187681193,
+					"longitude": 114.02693205946979
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 243,
+				"name": "深圳中影益田假日影城",
+				"pinyin": "szzyytjryc",
+				"address": "深圳市南山区益田假日广场L3-8中影益田假日影城",
+				"geocode": {
+					"latitude": 22.543338237131806,
+					"longitude": 113.98188882395908
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 2,
+				"name": "太平洋京基百纳店",
+				"pinyin": "tpyjjbnd",
+				"address": "南山区京基百纳广场3楼（世界之窗南侧）",
+				"geocode": {
+					"latitude": 22.5370460291182,
+					"longitude": 113.97452335028848
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4,
+				"name": "深圳金逸影城中心城店",
+				"pinyin": "szjyyczxcd",
+				"address": "深圳市福田区福华一路怡景中心城G层",
+				"geocode": {
+					"latitude": 22.541065463331236,
+					"longitude": 114.06566869533617
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2673,
+				"name": "深圳纵横国际影城天安云谷店",
+				"pinyin": "szzhgjyctaygd",
+				"address": "深圳市龙岗区坂田街道雪岗路2018号天安云谷产业园一期3栋D座三层",
+				"geocode": {
+					"latitude": 22.664207749647755,
+					"longitude": 114.07733705267457
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4730,
+				"name": "深圳市集鸿发中影国际影城（田寮店）",
+				"pinyin": "szsjhfzygjyc（tld）",
+				"address": "广东省深圳市光明新区公明街道田寮炜东城百货商场三楼",
+				"geocode": {
+					"latitude": 22.731909,
+					"longitude": 113.912044
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1362,
+				"name": "深圳博纳国际影城龙华店",
+				"pinyin": "szbngjyclhd",
+				"address": "深圳市宝安区龙华新城梅龙路COCOCity星河盛世店1层",
+				"geocode": {
+					"latitude": 22.608315,
+					"longitude": 114.052664
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1360,
+				"name": "星美国际影城龙岗万科广场店",
+				"pinyin": "xmgjyclgwkgcd",
+				"address": "深圳市龙岗区龙城街道龙翔大道7188号万科广场3层03-24.25",
+				"geocode": {
+					"latitude": 22.719730938008016,
+					"longitude": 114.24959608818885
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 252,
+				"name": "深圳南国影城金光华店",
+				"pinyin": "szngycjghd",
+				"address": "深圳罗湖区金光华广场三楼",
+				"geocode": {
+					"latitude": 22.545929954562943,
+					"longitude": 114.12655018435596
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 253,
+				"name": "深圳新南国影城中信店",
+				"pinyin": "szxngyczxd",
+				"address": "深圳市深南中路1093号中信城市广场C区三楼",
+				"geocode": {
+					"latitude": 22.546603045019932,
+					"longitude": 114.10495510315755
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3537,
+				"name": "深圳金逸嘉域店",
+				"pinyin": "szjyjyd",
+				"address": "深圳市光明新区公明街道松白路宏发嘉域花园一期商业裙楼2层",
+				"geocode": {
+					"latitude": 22.789064324985254,
+					"longitude": 113.88339811021639
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 39,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2688,
+				"name": "百汇国际影城红岭店",
+				"pinyin": "bhgjychld",
+				"address": "深圳市福田区红岭中路翠林阁南国大厦星光广场3楼",
+				"geocode": {
+					"latitude": 22.56168853740129,
+					"longitude": 114.11048002339818
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1115,
+				"name": "深圳嘉乐影城固戍店",
+				"pinyin": "szjlycgsd",
+				"address": "广东省深圳市宝安区西乡固戍村固戍一路置富广场一楼",
+				"geocode": {
+					"latitude": 22.607728678509936,
+					"longitude": 113.86818115084864
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 256,
+				"name": "深影国际嘉之华中心影城",
+				"pinyin": "sygjjzhzxyc",
+				"address": "福田区福中一路深圳音乐厅内（福中一路2016号）",
+				"geocode": {
+					"latitude": 22.552908919114916,
+					"longitude": 114.0638238039889
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 499,
+				"name": "龙华中影雅图城市影院",
+				"pinyin": "lhzyytcsyy",
+				"address": "深圳市宝安区龙华街道东环一路和油松路交界处家和福百货4楼",
+				"geocode": {
+					"latitude": 22.649543808630455,
+					"longitude": 114.05079757819983
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 31,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2687,
+				"name": "深圳金逸新新影城",
+				"pinyin": "szjyxxyc",
+				"address": "深圳市龙华新区清泉路9号TT.MALL星光城三楼",
+				"geocode": {
+					"latitude": 22.669846,
+					"longitude": 114.040639
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 1114,
+				"name": "深圳华夏君盛影城",
+				"pinyin": "szhxjsyc",
+				"address": "深圳市南山区前海路港湾丽都购物广场2层",
+				"geocode": {
+					"latitude": 22.5359250669857,
+					"longitude": 113.92049443303566
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 812,
+				"name": "深圳中影UL城市影院宝安店",
+				"pinyin": "szzyULcsyybad",
+				"address": "深圳市宝安中心区罗田路第五大道高发花园步行街西端",
+				"geocode": {
+					"latitude": 22.561235,
+					"longitude": 113.88265
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 937,
+				"name": "深圳星晨国际影城",
+				"pinyin": "szxcgjyc",
+				"address": "深圳市宝安区松岗街道松明大道红星社区星际家园永辉超市三楼（复亚医院对面）",
+				"geocode": {
+					"latitude": 22.770332291242667,
+					"longitude": 113.83875594835305
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4088,
+				"name": "华纳万都影城（深圳前海店）",
+				"pinyin": "hnwdyc（szqhd）",
+				"address": "广东省深圳市南山区月亮湾大道与桂湾三路交汇处龙海商业广场A区13-17号",
+				"geocode": {
+					"latitude": 22.541195202982657,
+					"longitude": 113.912587443736
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 6027,
+				"name": "深圳卡思国际影城",
+				"pinyin": "szksgjyc",
+				"address": "深圳市大鹏新区葵涌街道葵新北路东侧农贸综合市场3楼",
+				"geocode": {
+					"latitude": 22.641440706052915,
+					"longitude": 114.42274213239915
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1
+				],
+				"labels": []
+			}, {
+				"id": 5050,
+				"name": "深影国际影城佐阾虹湾店",
+				"pinyin": "sygjyczlhwd",
+				"address": "深圳市梅林街道北环大道6098号绿景虹湾购物中心三楼（地铁梅景站A1出口）",
+				"geocode": {
+					"latitude": 22.566409151760407,
+					"longitude": 114.04691861146661
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4639,
+				"name": "深圳百线国际影城（松岗店）",
+				"pinyin": "szbxgjyc（sgd）",
+				"address": "广东省深圳市宝安区松岗街道联投东方park三楼",
+				"geocode": {
+					"latitude": 22.764837,
+					"longitude": 113.866363
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3300,
+				"name": "深圳橙天国际影城坪山店",
+				"pinyin": "szctgjycpsd",
+				"address": "广东省深圳市坪山新区坑梓街道翠景路56号嘉邻中心三楼",
+				"geocode": {
+					"latitude": 22.737138,
+					"longitude": 114.388134
+				},
+				"district": {
+					"id": 0,
+					"name": "坪山新区",
+					"pinyin": "ping-shan-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 703,
+				"name": "深圳深影华纳影城（民乐店）",
+				"pinyin": "szsyhnyc（mld）",
+				"address": " 深圳市龙华区民治街道民乐一区民乐大厦3楼",
+				"geocode": {
+					"latitude": 22.604049699194153,
+					"longitude": 114.05861375150737
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4513,
+				"name": "深圳中影金影星汇影城",
+				"pinyin": "szzyjyxhyc",
+				"address": "广东省深圳市宝安区石岩街道宝石东路209号星城购物中心4楼",
+				"geocode": {
+					"latitude": 22.686020009986187,
+					"longitude": 113.95445766925421
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1802,
+				"name": "中影国际影城东莞益田假日天地店",
+				"pinyin": "zygjycdgytjrtdd",
+				"address": "凤岗镇官井头村龙平南路一号大运城邦花园一区三期益田假日天地L4-10-11",
+				"geocode": {
+					"latitude": 22.725312,
+					"longitude": 114.214348
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 36,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 152,
+				"name": "保利国际影城深圳南山店",
+				"pinyin": "blgjycsznsd",
+				"address": "深圳南山区文心五路保利文化广场B区3楼",
+				"geocode": {
+					"latitude": 22.522789145221218,
+					"longitude": 113.94363143138719
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 156,
+				"name": "MCL洲立影城罗湖店",
+				"pinyin": "MCLzlyclhd",
+				"address": "深圳罗湖区太宁路8号喜荟城购物中心二楼",
+				"geocode": {
+					"latitude": 22.57436730587201,
+					"longitude": 114.14618341932126
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 36,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 1016,
+				"name": "深圳市中影UL城市影城莲塘店",
+				"pinyin": "szszyULcsycltd",
+				"address": "罗湖区莲塘聚宝商业中心三楼",
+				"geocode": {
+					"latitude": 22.567836109486432,
+					"longitude": 114.17641654521599
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1015,
+				"name": "深圳中影飞尚百誉国际影城",
+				"pinyin": "szzyfsbygjyc",
+				"address": "深圳市宝安区沙井街道京基百纳广场5楼",
+				"geocode": {
+					"latitude": 22.732832720432476,
+					"longitude": 113.81307413942483
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 712,
+				"name": "金逸影城民治店",
+				"pinyin": "jyycmzd",
+				"address": "深圳宝安区民治大道牛栏前大厦岁宝百货3楼",
+				"geocode": {
+					"latitude": 22.640632825770236,
+					"longitude": 114.04368222332549
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5610,
+				"name": "深圳中影南方影院万汇城店",
+				"pinyin": "szzynfyywhcd",
+				"address": "深圳市光明新区公明街道民生路71号万汇城购物广场4、5楼",
+				"geocode": {
+					"latitude": 22.787388,
+					"longitude": 113.915154
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1939,
+				"name": "深圳东海国际影城",
+				"pinyin": "szdhgjyc",
+				"address": "广东深圳宝安区福永桥头永福路120号（东海百货4楼）",
+				"geocode": {
+					"latitude": 22.693710324832466,
+					"longitude": 113.80858801518407
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1818,
+				"name": "深圳纵横国际影城深圳湾店",
+				"pinyin": "szzhgjycszwd",
+				"address": "深圳市南山区中心路（深圳湾段）君尚3019 7F",
+				"geocode": {
+					"latitude": 22.512547,
+					"longitude": 113.947068
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 43,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 713,
+				"name": "金逸影城龙华东环店",
+				"pinyin": "jyyclhdhd",
+				"address": "深圳市龙华新区建设路与东环路交接处人人乐百货4楼",
+				"geocode": {
+					"latitude": 22.65802251802114,
+					"longitude": 114.03724319817789
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 956,
+				"name": "深圳华影信和影城",
+				"pinyin": "szhyxhyc",
+				"address": "深圳市南山区南海大道2088号信和购物广场四层",
+				"geocode": {
+					"latitude": 22.51231072207807,
+					"longitude": 113.93125041532706
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5612,
+				"name": "深圳中影南方激光影城民治多米汇店",
+				"pinyin": "szzynfjgycmzdmhd",
+				"address": "广东省深圳市龙华新区民治大道866号华侨新苑多米汇2楼",
+				"geocode": {
+					"latitude": 22.643716,
+					"longitude": 114.044493
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 957,
+				"name": "米高梅国际影城横岗店",
+				"pinyin": "mgmgjychgd",
+				"address": "深圳龙岗区横岗街道龙岗大道5008号横岗大厦商业4层",
+				"geocode": {
+					"latitude": 22.652999987524108,
+					"longitude": 114.21446778924968
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 839,
+				"name": "深圳戏院",
+				"pinyin": "szxy",
+				"address": "深圳市罗湖区新园路1号（东门步行街西口）",
+				"geocode": {
+					"latitude": 22.55180451736257,
+					"longitude": 114.12309985397805
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 56,
+				"name": "华夏艺术中心",
+				"pinyin": "hxyszx",
+				"address": "深圳市华侨城光侨街1号华夏艺术中心",
+				"geocode": {
+					"latitude": 22.54063470305397,
+					"longitude": 113.99172536630708
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					2
+				],
+				"labels": []
+			}, {
+				"id": 1274,
+				"name": "深圳达梦国际影城",
+				"pinyin": "szdmgjyc",
+				"address": "深圳市龙岗区宝荷路尖莎咀购物中心(沃尔玛)三楼",
+				"geocode": {
+					"latitude": 22.694224180615056,
+					"longitude": 114.27355770135419
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2121,
+				"name": "麦希中影南方布吉店",
+				"pinyin": "mxzynfbjd",
+				"address": "深圳市龙岗区布吉地铁站A出口龙珠商城5F-501",
+				"geocode": {
+					"latitude": 22.609438,
+					"longitude": 114.130496
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 34,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 160,
+				"name": "深圳博纳国际影城华强店",
+				"pinyin": "szbngjychqd",
+				"address": "深圳市福田区华强北茂业百货九楼博纳国际影城",
+				"geocode": {
+					"latitude": 22.550857008619978,
+					"longitude": 114.09289276546852
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 2360,
+				"name": "深圳冷杉欢腾影城盐田店",
+				"pinyin": "szlshtycytd",
+				"address": "深圳市盐田区沙头角官下路63号瀚海东岸4楼401",
+				"geocode": {
+					"latitude": 22.557160029057215,
+					"longitude": 114.23825939809733
+				},
+				"district": {
+					"id": 0,
+					"name": "盐田区",
+					"pinyin": "yan-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1943,
+				"name": "深圳中影南方影城观澜店",
+				"pinyin": "szzynfycgld",
+				"address": "深圳市龙华新区观澜樟坑径社区安澜大道218号新安汇大厦2楼",
+				"geocode": {
+					"latitude": 22.691602627053456,
+					"longitude": 114.08472534841854
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 1822,
+				"name": "深圳纵横国际影城石厦店",
+				"pinyin": "szzhgjycssd",
+				"address": "深圳市福田区石厦北二街89号石厦新港商城三层",
+				"geocode": {
+					"latitude": 22.526139,
+					"longitude": 114.059812
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 721,
+				"name": "深圳环球国际影城福永店",
+				"pinyin": "szhqgjycfyd",
+				"address": "深圳市宝安区福永街道凤凰御林山景三楼",
+				"geocode": {
+					"latitude": 22.700396163788753,
+					"longitude": 113.81755456212052
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1386,
+				"name": "深圳聚星国际影城",
+				"pinyin": "szjxgjyc",
+				"address": "深圳市龙岗区布澜路李朗国际珠宝园C1栋维也纳酒店3楼",
+				"geocode": {
+					"latitude": 22.65049684630441,
+					"longitude": 114.13471966481367
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4895,
+				"name": "深圳中影W影城",
+				"pinyin": "szzyWyc",
+				"address": "深圳市宝安区翠湖花园旁兴悦广场2楼中影W影城",
+				"geocode": {
+					"latitude": 22.642861185261957,
+					"longitude": 113.84683770119298
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 60,
+				"name": "深圳百誉国际影城龙岗店",
+				"pinyin": "szbygjyclgd",
+				"address": "深圳市龙岗区龙翔大道世贸中心D区四楼",
+				"geocode": {
+					"latitude": 22.723430851711466,
+					"longitude": 114.2522232104994
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 605,
+				"name": "深圳金逸影城碧海店",
+				"pinyin": "szjyycbhd",
+				"address": "宝安区西乡兴业路3004号七巧国四楼（地铁西乡站C出口）",
+				"geocode": {
+					"latitude": 22.574967945767625,
+					"longitude": 113.86311573453723
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1826,
+				"name": "深圳万众国际影城横岗店",
+				"pinyin": "szwzgjychgd",
+				"address": "深圳市龙岗区龙岗大道2999号麟恒广场3F",
+				"geocode": {
+					"latitude": 22.64251027882752,
+					"longitude": 114.19237962815701
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 606,
+				"name": "深圳金逸影城观澜店",
+				"pinyin": "szjyycgld",
+				"address": "深圳市观澜镇观光路万悦城广场4楼（观澜富士康南门）",
+				"geocode": {
+					"latitude": 22.738517811702955,
+					"longitude": 114.01941465359171
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 62,
+				"name": "星河环星电影城",
+				"pinyin": "xhhxdyc",
+				"address": "深圳市宝安区新安二路70号",
+				"geocode": {
+					"latitude": 22.56546579470399,
+					"longitude": 113.91616827634513
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 64,
+				"name": "深圳MCL洲立影城蛇口店",
+				"pinyin": "szMCLzlycskd",
+				"address": "深圳市南山区南海大道花园城中心五楼",
+				"geocode": {
+					"latitude": 22.50766778474733,
+					"longitude": 113.92988548412207
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 36,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 2912,
+				"name": "深圳光明正佳影院",
+				"pinyin": "szgmzjyy",
+				"address": "深圳市公明街道振明路光明新区文化馆C座一层",
+				"geocode": {
+					"latitude": 22.780561,
+					"longitude": 113.909934
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4432,
+				"name": "深圳中影face影城（平湖店）",
+				"pinyin": "szzyfaceyc（phd）",
+				"address": "深圳市龙岗区平湖街道凤凰大道凤凰商业广场-1",
+				"geocode": {
+					"latitude": 22.70187105135206,
+					"longitude": 114.14976090484406
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 290,
+				"name": "橙天嘉禾影城",
+				"pinyin": "ctjhyc",
+				"address": "深圳罗湖区宝安南路1881号华润中心万象城中座三楼",
+				"geocode": {
+					"latitude": 22.546777966342148,
+					"longitude": 114.1169737481649
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 34,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2372,
+				"name": "华夏星光国际影城宝安店",
+				"pinyin": "hxxggjycbad",
+				"address": "深圳市宝安区沙井街道中心路西侧宝安书城内",
+				"geocode": {
+					"latitude": 22.737255,
+					"longitude": 113.835712
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2370,
+				"name": "深圳德金国际影城福永店",
+				"pinyin": "szdjgjycfyd",
+				"address": "广东省深圳市宝安区福永街道怀德南路群艺馆一楼",
+				"geocode": {
+					"latitude": 22.669370557132275,
+					"longitude": 113.82797400772732
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 31,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 175,
+				"name": "深圳华夏太古影城金銮店",
+				"pinyin": "szhxtgycjld",
+				"address": "深圳市宝安区龙华和平东路金銮时代大厦二楼",
+				"geocode": {
+					"latitude": 22.662584364014563,
+					"longitude": 114.03659193117488
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 176,
+				"name": "深圳市百誉电影城大浪店",
+				"pinyin": "szsbydycdld",
+				"address": "深圳市宝安区大浪街道华旺路大浪商业中心E栋三楼",
+				"geocode": {
+					"latitude": 22.681312262232016,
+					"longitude": 114.00067252331912
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 850,
+				"name": "深圳万众国际影城NEO店",
+				"pinyin": "szwzgjycNEOd",
+				"address": "深圳市福田区深南中路NEO大厦A座3楼",
+				"geocode": {
+					"latitude": 22.54147896737388,
+					"longitude": 114.03633065093265
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4425,
+				"name": "深圳万明影城坪山店",
+				"pinyin": "szwmycpsd",
+				"address": "广东省深圳市坪山区坪山街道坪环社区京基御景二期01-02铺（万明影城坪山店）",
+				"geocode": {
+					"latitude": 22.683233,
+					"longitude": 114.341664
+				},
+				"district": {
+					"id": 0,
+					"name": "坪山新区",
+					"pinyin": "ping-shan-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 616,
+				"name": "深圳中影UL城市影院福永店",
+				"pinyin": "szzyULcsyyfyd",
+				"address": "福永街道福永大道国惠康百货4楼",
+				"geocode": {
+					"latitude": 22.6749622582556,
+					"longitude": 113.82703276321426
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 1956,
+				"name": "深圳市星际银河坑梓电影院",
+				"pinyin": "szsxjyhkzdyy",
+				"address": "广东深圳市坪山新区坑梓街道金田风华苑西一号楼三层",
+				"geocode": {
+					"latitude": 22.75210598085839,
+					"longitude": 114.38108492296475
+				},
+				"district": {
+					"id": 0,
+					"name": "坪山新区",
+					"pinyin": "ping-shan-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1713,
+				"name": "中影国际影城深圳龙华九方店",
+				"pinyin": "zygjycszlhjfd",
+				"address": "深圳市龙华新区人民南路九方购物中心第2-3层",
+				"geocode": {
+					"latitude": 22.634411761521275,
+					"longitude": 114.02893231634819
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					18,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5097,
+				"name": "深圳米高梅巨幕影城（田寮店）",
+				"pinyin": "szmgmjmyc（tld）",
+				"address": "广东省深圳市光明新区公明街道田寮社区田福路28号A栋3楼（亿华购物广场）",
+				"geocode": {
+					"latitude": 22.737355,
+					"longitude": 113.908684
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5098,
+				"name": "深圳熙腾影院龙华店",
+				"pinyin": "szxtyylhd",
+				"address": "广东省深圳市龙华新区东环一路世贸广场一楼26号",
+				"geocode": {
+					"latitude": 22.667126477048846,
+					"longitude": 114.0290277631052
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5650,
+				"name": "深圳CMC文创影城（金海华府荟悦城店）",
+				"pinyin": "szCMCwcyc（jhhfhycd）",
+				"address": "深圳宝安区新安街道新安四路与锦花路交界处金海华府荟悦城1楼",
+				"geocode": {
+					"latitude": 22.588489423901034,
+					"longitude": 113.90192126235148
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1
+				],
+				"labels": []
+			}, {
+				"id": 3112,
+				"name": "深圳红石影城东门店",
+				"pinyin": "szhsycdmd",
+				"address": "深圳市罗湖区东门中路2088号东门中心城负一楼晒布地铁站Ａ2出口",
+				"geocode": {
+					"latitude": 22.555312952333257,
+					"longitude": 114.12948773679638
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1295,
+				"name": "深圳星美国际影城福永店（原艾美银河UV影城）",
+				"pinyin": "szxmgjycfyd（yamyhUVyc）",
+				"address": "深圳市宝安区福永大洋路178号凤凰世纪商业广场首层（好万年超市对面）",
+				"geocode": {
+					"latitude": 22.701290081845908,
+					"longitude": 113.83090066372192
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 5091,
+				"name": "深圳时代凤凰国际影城盐田店",
+				"pinyin": "szsdfhgjycytd",
+				"address": "广东省深圳市盐田区沙头角海山路和亨城市广场广富百货2楼",
+				"geocode": {
+					"latitude": 22.563756,
+					"longitude": 114.245083
+				},
+				"district": {
+					"id": 0,
+					"name": "盐田区",
+					"pinyin": "yan-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 183,
+				"name": "深圳南国艺恒影城坂田店",
+				"pinyin": "szngyhycbtd",
+				"address": "深圳市龙岗区坂田街道吉华路坂田商业广场5楼",
+				"geocode": {
+					"latitude": 22.63961726343574,
+					"longitude": 114.0686443988116
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3350,
+				"name": "深圳中影4K国际影城（民治店）",
+				"pinyin": "szzy4Kgjyc（mzd）",
+				"address": "深圳市龙华新区明治街道梅龙路与民旺路交汇处七星商业广场501号",
+				"geocode": {
+					"latitude": 22.626235485147106,
+					"longitude": 114.04013247747683
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 189,
+				"name": "雅图梅林店",
+				"pinyin": "ytmld",
+				"address": "福田区梅林一村9区一层103A（梅山街）",
+				"geocode": {
+					"latitude": 22.571490922055364,
+					"longitude": 114.04063811837703
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 25,
+				"itemTypes": [
+					2
+				],
+				"labels": []
+			}, {
+				"id": 3349,
+				"name": "深圳希恩国际影城（观澜巨幕店）",
+				"pinyin": "szxegjyc（gljmd）",
+				"address": "广东省深圳市龙华新区观澜街道环观南路大和路口101号凯美居",
+				"geocode": {
+					"latitude": 22.696098,
+					"longitude": 114.060189
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 741,
+				"name": "深圳深影华纳影城（翻身店）",
+				"pinyin": "szsyhnyc（fsd）",
+				"address": "广东省深圳市宝安区新安街道49区自由路137号大楼翻身派出所旁",
+				"geocode": {
+					"latitude": 22.575803,
+					"longitude": 113.89513
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3105,
+				"name": "深圳万厅国际影城石岩店",
+				"pinyin": "szwtgjycsyd",
+				"address": "深圳市宝安区石岩街道塘头大道东海百货二楼",
+				"geocode": {
+					"latitude": 22.670912606857105,
+					"longitude": 113.9236409573885
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 983,
+				"name": "深圳星河电影城松岗店",
+				"pinyin": "szxhdycsgd",
+				"address": "深圳市宝安区松岗街道东方大道C区喜港城（华润万家）3楼",
+				"geocode": {
+					"latitude": 22.783466011580423,
+					"longitude": 113.84699059638396
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3104,
+				"name": "深圳中影幕森国际影城",
+				"pinyin": "szzymsgjyc",
+				"address": "广东省深圳市宝安区福永大道128号汇隆城5楼",
+				"geocode": {
+					"latitude": 22.674127073461865,
+					"longitude": 113.82536694547711
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3225,
+				"name": "深圳百川国际影城（龙华店）",
+				"pinyin": "szbcgjyc（lhd）",
+				"address": "深圳市龙华新区民治大道水尾村优城商场5楼",
+				"geocode": {
+					"latitude": 22.633997,
+					"longitude": 114.04322
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 624,
+				"name": "深圳嘉年华国际影城",
+				"pinyin": "szjnhgjyc",
+				"address": "深圳市龙岗区龙平东路（龙岗老街）人人购物广场4楼",
+				"geocode": {
+					"latitude": 22.73494870332256,
+					"longitude": 114.28013249280332
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 80,
+				"name": "大地数字影院--深圳宏发店",
+				"pinyin": "ddszyy--szhfd",
+				"address": "深圳宝安区石岩街道宝石南路宏发购物广场二期5楼",
+				"geocode": {
+					"latitude": 22.681001,
+					"longitude": 113.936282
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					1
+				],
+				"labels": []
+			}, {
+				"id": 867,
+				"name": "深圳中影星美国际影城",
+				"pinyin": "szzyxmgjyc",
+				"address": "深圳市宝安区新湖路汇一城天虹购物中心三楼",
+				"geocode": {
+					"latitude": 22.58079543272617,
+					"longitude": 113.87101380815471
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 868,
+				"name": "深圳华夏嘉熙业国际影城",
+				"pinyin": "szhxjxygjyc",
+				"address": "深圳市龙华区民冶大道328号嘉熙业广场5楼",
+				"geocode": {
+					"latitude": 22.628656353921098,
+					"longitude": 114.04666143737884
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 626,
+				"name": "中影国际影城深圳宝安港隆城店",
+				"pinyin": "zygjycszbaglcd",
+				"address": "深圳市宝安区80区宝民二路港隆城购物中心4楼",
+				"geocode": {
+					"latitude": 22.588506215093705,
+					"longitude": 113.88656319984919
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 869,
+				"name": "深圳中影百誉影城东门店",
+				"pinyin": "szzybyycdmd",
+				"address": "深圳市罗湖区步行街UCITY商业中心五六楼",
+				"geocode": {
+					"latitude": 22.552829644298185,
+					"longitude": 114.12706964838135
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}
+				]
+			}, {
+				"id": 627,
+				"name": "深圳中影国际影城欢乐海岸店",
+				"pinyin": "szzygjychlhad",
+				"address": "深圳市南山区白石路东8号欢乐海岸曲水湾2栋A区",
+				"geocode": {
+					"latitude": 22.529722,
+					"longitude": 113.997696
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "",
+						"name": "iMax"
+					}
+				]
+			}, {
+				"id": 5649,
+				"name": "深圳影尊国际影城",
+				"pinyin": "szyzgjyc",
+				"address": "深圳宝安区新安街道建安一路80号香槟广场4楼东区",
+				"geocode": {
+					"latitude": 22.567315479781936,
+					"longitude": 113.9133903554887
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5421,
+				"name": "深圳中影星趴影城 （宝安万科生活广场店）",
+				"pinyin": "szzyxpyc （bawkshgcd）",
+				"address": "深圳宝安区新安街道46区万科生活广场二楼10号铺（星趴乐园旁）",
+				"geocode": {
+					"latitude": 22.567702190939173,
+					"longitude": 113.89610022647925
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 5422,
+				"name": "深圳中影熙腾影城",
+				"pinyin": "szzyxtyc",
+				"address": "深圳龙华新区观澜大水坑一村盛世华联4楼",
+				"geocode": {
+					"latitude": 22.734776540899507,
+					"longitude": 114.01344651749734
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": []
+			}, {
+				"id": 3365,
+				"name": "深圳宝影国际影城",
+				"pinyin": "szbygjyc",
+				"address": "宝安区石岩街道应人石社区天宝路28号",
+				"geocode": {
+					"latitude": 22.651202,
+					"longitude": 113.931238
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3243,
+				"name": "橙天嘉禾影城深圳卓悦汇店",
+				"pinyin": "ctjhycszzyhd",
+				"address": "深圳市福田区梅林街道中康路126号卓悦汇购物中心L4-27号",
+				"geocode": {
+					"latitude": 22.577016067043385,
+					"longitude": 114.06638267693944
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 50,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3359,
+				"name": "深圳星汇电影城（东海缤纷天地店）",
+				"pinyin": "szxhdyc（dhbftdd）",
+				"address": "深圳市福田区深南大道7888号东海国际中心东海缤纷天地B1楼1002铺",
+				"geocode": {
+					"latitude": 22.542952009645823,
+					"longitude": 114.02805282674571
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 630,
+				"name": "横店影城",
+				"pinyin": "hdyc",
+				"address": "广东深圳宝安区梅林关民治书香门第上河坊",
+				"geocode": {
+					"latitude": 22.603100810711037,
+					"longitude": 114.05303861419213
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 872,
+				"name": "深圳中影UL城市影院西丽店",
+				"pinyin": "szzyULcsyyxld",
+				"address": "深圳市南山区西丽镇366商业步行街中段二楼",
+				"geocode": {
+					"latitude": 22.587817,
+					"longitude": 113.957948
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3238,
+				"name": "橙天嘉禾影城深圳中洲店",
+				"pinyin": "ctjhycszzzd",
+				"address": "深圳市宝安区创业二路89号中洲购物中心4楼",
+				"geocode": {
+					"latitude": 22.577649176824934,
+					"longitude": 113.9131093179151
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 54,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3358,
+				"name": "深圳星联影城（园岭店）",
+				"pinyin": "szxlyc（yld）",
+				"address": "深圳市福田区园岭中路万佳广场（新一佳）二楼",
+				"geocode": {
+					"latitude": 22.558431044045943,
+					"longitude": 114.10597692567482
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1850,
+				"name": "深圳中影易禾影城",
+				"pinyin": "szzyyhyc",
+				"address": "深圳市吉华路布吉街新一佳超市4楼",
+				"geocode": {
+					"latitude": 22.606575304991043,
+					"longitude": 114.12446647848893
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 633,
+				"name": "深圳宝能影城（龙岗店）",
+				"pinyin": "szbnyc（lgd）",
+				"address": "深圳市龙岗区龙城街道建设路28号宝钜商业大厦四层L4-03a商铺",
+				"geocode": {
+					"latitude": 22.731685,
+					"longitude": 114.254974
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 876,
+				"name": "中影德金影城和平店",
+				"pinyin": "zydjychpd",
+				"address": "深圳福永镇和平村桥和路315号德金财富广场2楼",
+				"geocode": {
+					"latitude": 22.693983020509332,
+					"longitude": 113.79530366669663
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 759,
+				"name": "华夏星光国际影城",
+				"pinyin": "hxxggjyc",
+				"address": "深圳南山区南海大道与海德二道交界处南山书城7楼，茂业广场隔壁，海雅百货对面",
+				"geocode": {
+					"latitude": 22.524916,
+					"longitude": 113.936273
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					12
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1617,
+				"name": "百汇国际影城南岭店",
+				"pinyin": "bhgjycnld",
+				"address": "深圳市龙岗区南湾街道南岭村社区南岭东路28号四楼F4037",
+				"geocode": {
+					"latitude": 22.61781816886027,
+					"longitude": 114.15726080184945
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4460,
+				"name": "深圳逸达国际影城（荷坳店）",
+				"pinyin": "szydgjyc（had）",
+				"address": "深圳市龙岗区横岗街道金源路220号宝丰商场2楼",
+				"geocode": {
+					"latitude": 22.681866802450255,
+					"longitude": 114.23909240577949
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 641,
+				"name": "深圳宝影国际影城（公明店）",
+				"pinyin": "szbygjyc（gmd）",
+				"address": "广东省深圳市光明新区公明街道玉律社区玉泉东路20-1号南海大厦四楼A区",
+				"geocode": {
+					"latitude": 22.723636822974473,
+					"longitude": 113.90697558099662
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2951,
+				"name": "深圳中影UL城市影院宝立方店",
+				"pinyin": "szzyULcsyyblfd",
+				"address": "深圳市宝安区新安四路宝立方博览中心3楼",
+				"geocode": {
+					"latitude": 22.58627367429659,
+					"longitude": 113.89847320648312
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3003,
+				"name": "深圳蛇口影剧院",
+				"pinyin": "szskyjy",
+				"address": "深圳市南山区蛇口新街110号",
+				"geocode": {
+					"latitude": 22.493811855059917,
+					"longitude": 113.93528037374189
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1188,
+				"name": "深圳市中影UL城市影院前海店",
+				"pinyin": "szszyULcsyyqhd",
+				"address": " 深圳市南山区前海路与学府路交汇处星宇购物中心2楼2楼（建设银行楼上）",
+				"geocode": {
+					"latitude": 22.54964,
+					"longitude": 113.953653
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 887,
+				"name": "深圳UA影院 KK Mall店",
+				"pinyin": "szUAyy KK Malld",
+				"address": "深圳市罗湖区深南东路5016号京基百纳空间（KK MALL）购物中心四楼",
+				"geocode": {
+					"latitude": 22.550752795271276,
+					"longitude": 114.1133901020629
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 45,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "",
+						"name": "iMax"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 767,
+				"name": "星美国际影城宏发店",
+				"pinyin": "xmgjychfd",
+				"address": "深圳市宝安中心区宏发领域商业广场三楼",
+				"geocode": {
+					"latitude": 22.561098858219225,
+					"longitude": 113.89473333876485
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 889,
+				"name": "保利国际影城深圳大中华店",
+				"pinyin": "blgjycszdzhd",
+				"address": "深圳市福田区福华路大中华国际交易广场4楼",
+				"geocode": {
+					"latitude": 22.542159,
+					"longitude": 114.068623
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 768,
+				"name": "深圳金域世纪电影城",
+				"pinyin": "szjysjdyc",
+				"address": "深圳市龙岗区横岗街道茂盛路1号志健时代广场4楼",
+				"geocode": {
+					"latitude": 22.65314990499501,
+					"longitude": 114.21163768941942
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 28,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 769,
+				"name": "深圳金域新百花电影城",
+				"pinyin": "szjyxbhdyc",
+				"address": "深圳龙岗南约社区宏佰超市四楼（宝龙比亚迪斜对面）",
+				"geocode": {
+					"latitude": 22.694862984108337,
+					"longitude": 114.28449646096935
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 27,
+				"itemTypes": [],
+				"labels": []
+			}, {
+				"id": 5201,
+				"name": "深圳太平洋影城(深圳8号仓店)",
+				"pinyin": "sztpyyc(sz8hcd)",
+				"address": "深圳宝安区民康路1号华南物流园交易展示中心8号仓奥特莱斯3层L313号",
+				"geocode": {
+					"latitude": 22.62164159563234,
+					"longitude": 114.0612993894388
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": []
+			}, {
+				"id": 4597,
+				"name": "深圳新耀客国际影城",
+				"pinyin": "szxykgjyc",
+				"address": "深圳市龙华新区大浪浪静路南国俪人C栋1楼",
+				"geocode": {
+					"latitude": 22.703561,
+					"longitude": 113.993456
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1088,
+				"name": "深圳百川国际影城",
+				"pinyin": "szbcgjyc",
+				"address": "深圳市南山区南新路3022号欢乐颂购物中心5楼",
+				"geocode": {
+					"latitude": 22.541359812801712,
+					"longitude": 113.92740669271221
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1634,
+				"name": "深圳中影博亚影城五和店",
+				"pinyin": "szzybyycwhd",
+				"address": "深圳市龙岗区坂田街道五和大道118号和成世纪大厦3楼",
+				"geocode": {
+					"latitude": 22.631973075968844,
+					"longitude": 114.06765036178206
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3019,
+				"name": "深圳嘉乐国际影城鸿翔店",
+				"pinyin": "szjlgjychxd",
+				"address": "深圳市罗湖区松园路68号鸿翔花园二期一楼E01",
+				"geocode": {
+					"latitude": 22.560776,
+					"longitude": 114.11236
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2600,
+				"name": "德信影城深圳沙井联诚店",
+				"pinyin": "dxycszsjlcd",
+				"address": "广东深圳宝安区沙井街道上南大街联诚购物广场4楼",
+				"geocode": {
+					"latitude": 22.724618698140816,
+					"longitude": 113.84879449445762
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3017,
+				"name": "深圳环球国际影城观澜店",
+				"pinyin": "szhqgjycgld",
+				"address": "深圳市龙华新区观澜人民路264号得莱斯义乌商贸城四楼",
+				"geocode": {
+					"latitude": 22.710059875736672,
+					"longitude": 114.04678335360602
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 4908,
+				"name": "深圳博亚影城民治店",
+				"pinyin": "szbyycmzd",
+				"address": "广东省深圳市龙华新区樟坑二区百易广场A栋4楼",
+				"geocode": {
+					"latitude": 22.62535,
+					"longitude": 114.042894
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1878,
+				"name": "深圳时空国际影城（观澜章阁店）",
+				"pinyin": "szskgjyc（glzgd）",
+				"address": "深圳市龙华区观澜街道章阁社区天富商贸城3楼(观澜富士康北门200米处章阁天桥旁)",
+				"geocode": {
+					"latitude": 22.74998698631921,
+					"longitude": 114.02449109390832
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1636,
+				"name": "深圳完美世界影城沙井店（原17.5影城）",
+				"pinyin": "szwmsjycsjd（y17.5yc）",
+				"address": "广东省深圳市宝安区沙井街道中心路与新沙路交汇处华润万家四楼A",
+				"geocode": {
+					"latitude": 22.73379,
+					"longitude": 113.834397
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4002,
+				"name": "龙岗影城文化中心店",
+				"pinyin": "lgycwhzxd",
+				"address": "深圳市龙岗区(中心城)文化中心A区一层",
+				"geocode": {
+					"latitude": 22.72701925461739,
+					"longitude": 114.25666291390463
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": []
+			}, {
+				"id": 3277,
+				"name": "深圳中影JAJ24小时咖啡影院",
+				"pinyin": "szzyJAJ24xskfyy",
+				"address": "广东省深圳市龙岗区平湖辅城坳嘉诚路128号好又多超市二楼",
+				"geocode": {
+					"latitude": 22.696770364363008,
+					"longitude": 114.11374969375844
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 28,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1888,
+				"name": "深圳中影UL城市影院横岗店",
+				"pinyin": "szzyULcsyyhgd",
+				"address": "深圳市龙岗区横岗街道松柏天虹4楼",
+				"geocode": {
+					"latitude": 22.65523279247408,
+					"longitude": 114.21740709069094
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 28.5,
+				"itemTypes": [],
+				"labels": []
+			}, {
+				"id": 1887,
+				"name": "深圳中影UL城市影院布心店",
+				"pinyin": "szzyULcsyybxd",
+				"address": "深圳市罗湖区东昌路78号腾均商业广场二楼",
+				"geocode": {
+					"latitude": 22.587600549518626,
+					"longitude": 114.14217353803458
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 785,
+				"name": "深圳星烨南岭国际影城",
+				"pinyin": "szxynlgjyc",
+				"address": "深圳龙岗区布吉南岭村开放路大众城五楼（8号501）",
+				"geocode": {
+					"latitude": 22.615799,
+					"longitude": 114.157263
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 666,
+				"name": "深圳华夏星越影城",
+				"pinyin": "szhxxyyc",
+				"address": "广东省深圳市龙华新区民治街道办事处万众城万盛百货四楼",
+				"geocode": {
+					"latitude": 22.644627,
+					"longitude": 114.045558
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2058,
+				"name": "深圳华夏太古影城龙盛店",
+				"pinyin": "szhxtgyclsd",
+				"address": "深圳市龙岗区深汕路与南通道交汇处中信龙盛新天地1栋2F",
+				"geocode": {
+					"latitude": 22.735356584393614,
+					"longitude": 114.27849740160612
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 667,
+				"name": "深圳松岗时代凤凰国际影城",
+				"pinyin": "szsgsdfhgjyc",
+				"address": "广东省深圳市宝安区松岗街道楼岗大道集信大厦三楼",
+				"geocode": {
+					"latitude": 22.771440246117177,
+					"longitude": 113.85894214605449
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5204,
+				"name": "深圳橙天欢乐影城(大浪店)",
+				"pinyin": "szcthlyc(dld)",
+				"address": "深圳宝安区大浪商业中心二期纷享城3楼（万盛百货）",
+				"geocode": {
+					"latitude": 22.68204319804127,
+					"longitude": 114.00077160641683
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5205,
+				"name": "深圳凤凰国际影城西乡店",
+				"pinyin": "szfhgjycxxd",
+				"address": "深圳宝安区西乡街道宝安大道5010号西部硅谷（后瑞地铁站A出口）B座1楼",
+				"geocode": {
+					"latitude": 22.631997510575957,
+					"longitude": 113.84445809349107
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3280,
+				"name": "深圳中影ul城市影院万荟城店",
+				"pinyin": "szzyulcsyywhcd",
+				"address": " 深圳市宝安区西乡街道宝田一路中熙香槟山九栋商业广场四楼",
+				"geocode": {
+					"latitude": 22.600455,
+					"longitude": 113.888458
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 28,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5220,
+				"name": "深圳中影100都市影城(彩虹城店)",
+				"pinyin": "szzy100dsyc(chcd)",
+				"address": "深圳宝安区前进二路93号彩虹城5楼",
+				"geocode": {
+					"latitude": 22.59660962495583,
+					"longitude": 113.8884742235498
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5221,
+				"name": "深圳中影UL城市影城(黄田店)",
+				"pinyin": "szzyULcsyc(htd)",
+				"address": "深圳宝安区西乡街道长园路28号昌宏百货四楼",
+				"geocode": {
+					"latitude": 22.796745244020972,
+					"longitude": 113.8920151067163
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5222,
+				"name": "深圳中影德金影城(西乡店)",
+				"pinyin": "szzydjyc(xxd)",
+				"address": "深圳宝安区宝民二路和宝民一路交汇处缤纷时代购物中心一楼",
+				"geocode": {
+					"latitude": 22.598908,
+					"longitude": 113.880856
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5223,
+				"name": "深圳星美国际影商城(京基IMAX店)",
+				"pinyin": "szxmgjysc(jjIMAXd)",
+				"address": "深圳福田区沙头街道滨河大道9289号京基滨河时代4楼",
+				"geocode": {
+					"latitude": 22.53459876670574,
+					"longitude": 114.03345878798092
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3042,
+				"name": "深圳百川影城布吉店",
+				"pinyin": "szbcycbjd",
+				"address": "深圳龙岗区布吉街道吉华路下水径华润万家4楼",
+				"geocode": {
+					"latitude": 22.617686,
+					"longitude": 114.108978
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3041,
+				"name": "麦希中影南方深大店",
+				"pinyin": "mxzynfsdd",
+				"address": "深圳市南山区深大地铁站A3出口科技园文化广场3楼",
+				"geocode": {
+					"latitude": 22.546250303835407,
+					"longitude": 113.94995986614352
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 790,
+				"name": "深圳万达影城海雅广场店",
+				"pinyin": "szwdychygcd",
+				"address": "深圳市宝安区建安一路海雅缤纷城4楼",
+				"geocode": {
+					"latitude": 22.56541344460914,
+					"longitude": 113.91262674550036
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 45,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "",
+						"name": "iMax"
+					}
+				]
+			}, {
+				"id": 791,
+				"name": "深圳华谊兄弟影院太古城店",
+				"pinyin": "szhyxdyytgcd",
+				"address": "深圳市南山区深圳湾中心路宝能太古城北区负一楼",
+				"geocode": {
+					"latitude": 22.504721,
+					"longitude": 113.946407
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2867,
+				"name": "深圳星美国际影商城福田体育公园店",
+				"pinyin": "szxmgjyscfttygyd",
+				"address": "深圳市沙头街道福强路3030号体育公园3段负一层广场\t\t\t",
+				"geocode": {
+					"latitude": 22.53187136981011,
+					"longitude": 114.04215653495973
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1778,
+				"name": "深圳百誉影城公明上域店",
+				"pinyin": "szbyycgmsyd",
+				"address": "深圳市光明新区公明街道民生大道宏发荟4楼",
+				"geocode": {
+					"latitude": 22.787263,
+					"longitude": 113.91422
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}
+				]
+			}, {
+				"id": 792,
+				"name": "深圳博纳国际影城龙岗店",
+				"pinyin": "szbngjyclgd",
+				"address": "深圳市龙岗区黄阁南路666号星河时代CoCoPark4楼S-032铺(近深惠路)",
+				"geocode": {
+					"latitude": 22.697433,
+					"longitude": 114.235049
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 794,
+				"name": "深影国际凤凰影城",
+				"pinyin": "sygjfhyc",
+				"address": "广东省深圳市罗湖区凤凰路181号京基凤凰印象三楼",
+				"geocode": {
+					"latitude": 22.553692933487334,
+					"longitude": 114.13985537981935
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 37,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 795,
+				"name": "深圳金逸影城沙井店",
+				"pinyin": "szjyycsjd",
+				"address": "深圳市宝安区沙井街道民主大道岁宝百货3楼",
+				"geocode": {
+					"latitude": 22.74198392566477,
+					"longitude": 113.7991434313774
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 32,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 796,
+				"name": "深圳华夏太古影城万科红店",
+				"pinyin": "szhxtgycwkhd",
+				"address": "深圳市龙岗区布吉锦龙89号万科红生活广场二楼",
+				"geocode": {
+					"latitude": 22.653346,
+					"longitude": 113.829202
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4005,
+				"name": "深圳高新影院",
+				"pinyin": "szgxyy",
+				"address": "深圳高新技术产业园区北京大学东座深港产学研基地一楼",
+				"geocode": {
+					"latitude": 22.539222861816608,
+					"longitude": 113.95081663759964
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5217,
+				"name": "深圳保利院线万厅影城",
+				"pinyin": "szblyxwtyc",
+				"address": "深圳宝安区公明街道合水口社区松白路中泰大厦3楼（公明汽车站对面）",
+				"geocode": {
+					"latitude": 22.78449751531444,
+					"longitude": 113.89797596204451
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5218,
+				"name": "深圳华夏国际影城(观澜店)",
+				"pinyin": "szhxgjyc(gld)",
+				"address": "深圳宝安区观澜大道75号田背路口比邻新天地1楼",
+				"geocode": {
+					"latitude": 22.698698,
+					"longitude": 114.04804
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5219,
+				"name": "深圳中影影派影城(长圳店)",
+				"pinyin": "szzyypyc(zzd)",
+				"address": "深圳宝安区长圳路长圳商业步行街三楼",
+				"geocode": {
+					"latitude": 22.724157,
+					"longitude": 113.926959
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5230,
+				"name": "深圳中影德金影城(南山店)",
+				"pinyin": "szzydjyc(nsd)",
+				"address": "深圳南山区南头街道艺园东路缤纷年华家园商业裙楼301A-2号",
+				"geocode": {
+					"latitude": 22.548352,
+					"longitude": 113.935046
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5231,
+				"name": "深圳美视国际影城(4K沉浸音)",
+				"pinyin": "szmsgjyc(4Kcjy)",
+				"address": "深圳宝安区西乡街道前进二路桃源居10区28栋（人人乐超市二楼）",
+				"geocode": {
+					"latitude": 22.623019,
+					"longitude": 113.866337
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4021,
+				"name": "太平洋电影城天利店",
+				"pinyin": "tpydyctld",
+				"address": "深圳市南山中心区天利名城5楼/6楼（海岸城对面）",
+				"geocode": {
+					"latitude": 22.523760082908804,
+					"longitude": 113.94214783582098
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5596,
+				"name": "深圳深影五洲国际影城",
+				"pinyin": "szsywzgjyc",
+				"address": "深圳龙岗区龙城街道五联社区五联综合市场华润万家3楼",
+				"geocode": {
+					"latitude": 22.723876,
+					"longitude": 114.253309
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5114,
+				"name": "深圳华夏君盛影城坪地店",
+				"pinyin": "szhxjsycpdd",
+				"address": "深圳市龙岗区坪地街道龙岗大道3018宜城广场3楼",
+				"geocode": {
+					"latitude": 22.6430601818841,
+					"longitude": 114.19658316345054
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3299,
+				"name": "深圳百誉草埔影城",
+				"pinyin": "szbycpyc",
+				"address": "广东省深圳市罗湖区金稻田路1191号福安购物广场七楼",
+				"geocode": {
+					"latitude": 22.59155497658013,
+					"longitude": 114.12591023510407
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3298,
+				"name": "深圳天誉国际影城樟树布店",
+				"pinyin": "sztygjyczsbd",
+				"address": "广东省深圳市龙岗区南湾街道樟树布社区樟富北路5号法瑞姿大厦5楼",
+				"geocode": {
+					"latitude": 22.612358193111294,
+					"longitude": 114.1618614627376
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 321,
+				"name": "深圳中影4KMAX国际影城（西丽店）",
+				"pinyin": "szzy4KMAXgjyc（xld）",
+				"address": "深圳市南山区留仙大道悦方广场一楼",
+				"geocode": {
+					"latitude": 22.583874,
+					"longitude": 113.961978
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 40,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 203,
+				"name": "海岸影城",
+				"pinyin": "hayc",
+				"address": "深圳市南山区海德三道与文心五路交汇处海岸城三楼",
+				"geocode": {
+					"latitude": 22.5239495360594,
+					"longitude": 113.94344161494148
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2,
+					18,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2993,
+				"name": "中影DY影城沙井店",
+				"pinyin": "zyDYycsjd",
+				"address": "广东省深圳市宝安区沙井街道中心路34—1号形色城六楼",
+				"geocode": {
+					"latitude": 22.727351249785983,
+					"longitude": 113.83585635111702
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5225,
+				"name": "深圳集鸿发国际影城",
+				"pinyin": "szjhfgjyc",
+				"address": "深圳宝安区沙井街道大埔路惠尔乐百货3楼",
+				"geocode": {
+					"latitude": 22.759112,
+					"longitude": 113.827752
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4015,
+				"name": "太平洋影城新城汇店",
+				"pinyin": "tpyycxchd",
+				"address": "深圳市龙岗区横岗街道红棉路与横岗一号路交汇处新城汇五楼",
+				"geocode": {
+					"latitude": 22.654297,
+					"longitude": 114.198389
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5226,
+				"name": "深圳中影星悦国际影城",
+				"pinyin": "szzyxygjyc",
+				"address": "深圳宝安区石岩街道石龙社区工业一路与工业二路交汇处（惠科时尚广场A栋东侧二楼）",
+				"geocode": {
+					"latitude": 22.695435444078413,
+					"longitude": 113.80028056937294
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4016,
+				"name": "深圳市星际银河坪山沙坣电影院",
+				"pinyin": "szsxjyhpsstdyy",
+				"address": "深圳市坪山新区坪山办事处沙坣社区同富裕路9号A栋三层",
+				"geocode": {
+					"latitude": 22.691085534945188,
+					"longitude": 114.37632681966312
+				},
+				"district": {
+					"id": 0,
+					"name": "坪山新区",
+					"pinyin": "ping-shan-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 208,
+				"name": "深圳百誉电影城公明店",
+				"pinyin": "szbydycgmd",
+				"address": "深圳公明欧式堡三楼（国业百货对面、友谊书城旁）",
+				"geocode": {
+					"latitude": 22.789002684577802,
+					"longitude": 113.8962611264706
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					19,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5228,
+				"name": "深圳汉鼎宇佑影城(华夏Le店)",
+				"pinyin": "szhdyyyc(hxLed)",
+				"address": "深圳龙岗区平湖大街330号龙洲百货（荟港城）三层",
+				"geocode": {
+					"latitude": 22.69339570555088,
+					"longitude": 114.14748735378552
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5901,
+				"name": "深圳泛海国际影城",
+				"pinyin": "szfhgjyc",
+				"address": "广东省深圳市南山区南山街道前海路泛海城市广场2楼",
+				"geocode": {
+					"latitude": 22.501969,
+					"longitude": 113.899043
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2879,
+				"name": "深圳华纳万都影城龙华店",
+				"pinyin": "szhnwdyclhd",
+				"address": "深圳龙华新区清湖社区花伴里邻里购物中心三楼（清湖老村公交站旁，半里大厦旁）3楼",
+				"geocode": {
+					"latitude": 22.67806479656872,
+					"longitude": 114.0552187459692
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2092,
+				"name": "东影南国国际影城唐美店",
+				"pinyin": "dynggjyctmd",
+				"address": "深圳市宝安区福永街道塘尾社区凤塘大道与永福路交汇处唐美商场四楼",
+				"geocode": {
+					"latitude": 22.706621130214685,
+					"longitude": 113.80798575344154
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2091,
+				"name": "云幕国际影城西乡店",
+				"pinyin": "ymgjycxxd",
+				"address": "宝安区西乡大道与工业路交汇处共乐城购物中心4楼",
+				"geocode": {
+					"latitude": 22.588106551244866,
+					"longitude": 113.87500991931621
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					18
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3981,
+				"name": "深圳新华银兴国际影城",
+				"pinyin": "szxhyxgjyc",
+				"address": "深圳市宝安区西乡宝安大道与金海路交汇处金港华庭一栋三层",
+				"geocode": {
+					"latitude": 22.58900916074897,
+					"longitude": 113.86723552799454
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3979,
+				"name": "卢米埃深圳汇港IMAX影城",
+				"pinyin": "lmaszhgIMAXyc",
+				"address": "深圳市南山区蛇口工业三路1号汇港3F（海上世界地铁站B出口）",
+				"geocode": {
+					"latitude": 22.493742901277475,
+					"longitude": 113.92071731431058
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1678,
+				"name": "深圳百盛国际影城",
+				"pinyin": "szbsgjyc",
+				"address": "深圳市宝安区松岗街道溪头社区沙江路136号三楼\t\t\t\t",
+				"geocode": {
+					"latitude": 22.779564705964777,
+					"longitude": 113.84075078665262
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1799,
+				"name": "深圳中影城市UL龙珠店",
+				"pinyin": "szzycsULlzd",
+				"address": "深圳市南山区桃源村三期岁宝百货二楼",
+				"geocode": {
+					"latitude": 22.563824443589272,
+					"longitude": 113.99076343561477
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2767,
+				"name": "深圳中影百誉钻石影城",
+				"pinyin": "szzybyzsyc",
+				"address": "深圳市罗湖区南湖路与友谊路交汇处钻石广场3楼",
+				"geocode": {
+					"latitude": 22.545165570969463,
+					"longitude": 114.1272438846163
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "REFUNDABLE_SEAT_TICKET",
+						"name": "订座退票"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2766,
+				"name": "深圳布吉华纳时代影院",
+				"pinyin": "szbjhnsdyy",
+				"address": "深圳市龙岗区布吉街道金鹏路国都花园三楼",
+				"geocode": {
+					"latitude": 22.611906752770913,
+					"longitude": 114.12480089157933
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					2
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 1798,
+				"name": "深圳中影UL城市影院彩田店",
+				"pinyin": "szzyULcsyyctd",
+				"address": "深圳市福田区彩田路3030号彩德城三层",
+				"geocode": {
+					"latitude": 22.54874616854983,
+					"longitude": 114.07603423452763
+				},
+				"district": {
+					"id": 0,
+					"name": "福田区",
+					"pinyin": "fu-tian-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 30,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2765,
+				"name": "橙天嘉禾影城摩尔城店",
+				"pinyin": "ctjhycmecd",
+				"address": "广东省深圳市龙岗区龙岗街道平南社区深惠路860号鹏达摩尔城四层",
+				"geocode": {
+					"latitude": 22.728363950043825,
+					"longitude": 114.27478953691994
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 45,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 697,
+				"name": "中影星趴影城海上世界店",
+				"pinyin": "zyxpychssjd",
+				"address": "深圳市南山区招商街道蛇口海上世界A区三层",
+				"geocode": {
+					"latitude": 22.4896434279286,
+					"longitude": 113.92270616270902
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}
+				]
+			}, {
+				"id": 1672,
+				"name": "深圳百汇银河影城",
+				"pinyin": "szbhyhyc",
+				"address": "深圳市龙岗区龙岗大道6483号欢城广场4F（龙岗中心医院对面）",
+				"geocode": {
+					"latitude": 22.742881847901078,
+					"longitude": 114.28835252989512
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "TEHUI",
+						"name": "特价场次"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 1793,
+				"name": "深圳华夏太古国际影城弓村巨幕店",
+				"pinyin": "szhxtggjycgcjmd",
+				"address": "深圳市龙华新区创业路汇海广场3楼",
+				"geocode": {
+					"latitude": 22.663662,
+					"longitude": 114.034496
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 5115,
+				"name": "深圳非凡数字影城",
+				"pinyin": "szffszyc",
+				"address": "深圳市宝安区石岩街道塘头社区塘头大道宏发商业大厦一层、二层（一层39-13、二层A区）",
+				"geocode": {
+					"latitude": 22.652990467506296,
+					"longitude": 113.91777509427472
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3971,
+				"name": "星美国际影城观澜店",
+				"pinyin": "xmgjycgld",
+				"address": "广东深圳龙华新区观澜镇桂花社区桂花路108号首信广场5楼",
+				"geocode": {
+					"latitude": 22.72981074526881,
+					"longitude": 114.06687263671925
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					2
+				],
+				"labels": []
+			}, {
+				"id": 3972,
+				"name": "风云国际影城西乡店",
+				"pinyin": "fygjycxxd",
+				"address": "深圳市宝安区西乡簕竹角（欢天喜地二楼）",
+				"geocode": {
+					"latitude": 22.664477,
+					"longitude": 113.870074
+				},
+				"district": {
+					"id": 0,
+					"name": "宝安区",
+					"pinyin": "bao-an-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": []
+			}, {
+				"id": 4027,
+				"name": "深圳太阳数码影城",
+				"pinyin": "sztysmyc",
+				"address": "深圳市罗湖区东门解放路商业步行街太阳广场六楼",
+				"geocode": {
+					"latitude": 22.653305,
+					"longitude": 113.829186
+				},
+				"district": {
+					"id": 0,
+					"name": "罗湖区",
+					"pinyin": "luo-hu-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 35,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4029,
+				"name": "时代金球影城华南城店",
+				"pinyin": "sdjqychncd",
+				"address": "深圳市龙岗区平湖街道华南城西门环球物流中心四楼",
+				"geocode": {
+					"latitude": 22.682045640433987,
+					"longitude": 114.12996876861716
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 0,
+				"itemTypes": [
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3975,
+				"name": "百汇国际影城南山店",
+				"pinyin": "bhgjycnsd",
+				"address": "深圳南山区创业路亿利达大厦A区1楼",
+				"geocode": {
+					"latitude": 22.523129305663254,
+					"longitude": 113.92843799953904
+				},
+				"district": {
+					"id": 0,
+					"name": "南山区",
+					"pinyin": "nan-shan-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3976,
+				"name": "深圳一帆影城",
+				"pinyin": "szyfyc",
+				"address": "深龙岗区深惠路大芬爱琴居信和购物广场三层（大芬沃尔玛正对面）",
+				"geocode": {
+					"latitude": 22.617688807094144,
+					"longitude": 114.1418515152721
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 33,
+				"itemTypes": [
+					17,
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "SUNDRY",
+						"name": "观影小食"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 4703,
+				"name": "深圳中影UUE巨幕影城",
+				"pinyin": "szzyUUEjmyc",
+				"address": "广东省深圳市光明新区公明街道合水口新天地购物中心（原亿佰家）3楼",
+				"geocode": {
+					"latitude": 22.793439888926564,
+					"longitude": 113.88720485947476
+				},
+				"district": {
+					"id": 0,
+					"name": "光明新区",
+					"pinyin": "guang-ming-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 2654,
+				"name": "橙天嘉禾影城观澜湖店",
+				"pinyin": "ctjhycglhd",
+				"address": "深圳市龙华新区观澜高尔夫大道8号观澜湖新城MH MALL  1栋4层  2A栋C座1-3层",
+				"geocode": {
+					"latitude": 22.713652565085077,
+					"longitude": 114.06523746018303
+				},
+				"district": {
+					"id": 0,
+					"name": "龙华新区",
+					"pinyin": "long-hua-xin-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 45,
+				"itemTypes": [
+					17,
+					1,
+					2
+				],
+				"labels": [
+					{
+						"type": "",
+						"name": "iMax"
+					}, {
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}, {
+				"id": 3986,
+				"name": "深圳中影百纳国际影城",
+				"pinyin": "szzybngjyc",
+				"address": "深圳市龙岗区龙城街道龙平西路首创八意府6栋301",
+				"geocode": {
+					"latitude": 22.736017,
+					"longitude": 114.236714
+				},
+				"district": {
+					"id": 0,
+					"name": "龙岗区",
+					"pinyin": "long-gang-qu"
+				},
+				"isFavorite": false,
+				"minimumPrice": 38,
+				"itemTypes": [
+					1,
+					2,
+					6
+				],
+				"labels": [
+					{
+						"type": "DISCOUNT",
+						"name": "优惠活动"
+					}
+				]
+			}
+		]
+	},
+	"msg": "ok"
+}

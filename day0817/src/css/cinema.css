@@ -1,0 +1,67 @@
+.cinema-box{
+	width: 100%;
+	height: 100%;
+    overflow-x: auto;
+    background: #fff;
+}
+.cinema-list-header{
+	width: 100%;
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+    padding: 0 15px;
+    background: #e1e1e1;
+    color: #636363;
+    border-bottom: 1px solid #fff;
+    box-sizing: border-box;
+}
+.cinema-list ul li{
+	padding: 12px 15px;
+    border-bottom: 1px solid #e1e1e1;
+    box-sizing: border-box;
+}
+.cinema-list ul li .cinema-name{
+	display: inline-block;
+    font-size: 16px;
+    width: 80%;
+    margin-bottom: 5px;
+    color: #333;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.cinema-list ul li .active{
+	display: inline-block;
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+.cinema-list ul li .active span{
+	display: inline-block;
+    border-radius: 3px;
+    padding: 0 5px;
+    margin: 0 5px;
+    font-style: normal;
+    color: #fff;
+    height: 15px;
+    line-height: 15px;
+    font-size: 10px;
+}
+.cinema-list ul li .active span:nth-of-type(1){
+	background: #51add0;
+}
+.cinema-list ul li .active span:nth-of-type(2){
+	background: #ff9658;
+}
+.cinema-list ul li .address{
+	display: inline-block;
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    color: #ccc;
+}
+.cinema-list ul li>span{
+	font-size: 12px;
+    color: #ccc;
+}

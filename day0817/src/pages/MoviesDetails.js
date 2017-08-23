@@ -22,14 +22,14 @@ export default class MoviesDetails extends Component{
 						return (
 							<div class="movies-details" key={index}>
 								<img src={item.img}/>
-								<div class="jieshao">影片介绍</div>
-								<div class="director"><span>导演</span>{item.director}</div>
-								<div class="grade"><span>主演</span></div>
-								<div class="nation"><span>地区语言</span></div>
-								<div class="category"><span>类型</span></div>
-								<div class="premiereAt"><span>上映日期</span></div>
-								<div class="synopsis"></div>
-
+								<div class="jieshao">影片简介</div>
+								<div><p>导<span></span>演</p> : {item.director}</div>
+								<div><p>主<span></span>演</p> : {item.grade}</div>
+								<div><p>地区语言</p> : {item.nation}</div>
+								<div><p>类<span></span>型</p> : {item.category}</div>
+								<div><p>上映日期</p> : {item.premiereAt}</div>
+								<div class="synopsis">{item.synopsis}</div>
+								<button>立即购票</button>
 							</div>
 						)
 					})
@@ -44,7 +44,7 @@ export default class MoviesDetails extends Component{
 		moviesServices.getMoviesDetailsData(this.state.id, this.state.time)
 		.then((res)=>{
 			this.setState({listData : res});
-			console.log(this.state.listData)
+//			console.log(this.state.listData)
 		})
 
 

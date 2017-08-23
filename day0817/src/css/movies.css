@@ -1,7 +1,7 @@
 #Movies{
 	padding: 0 15px;
-	box-sizing: border-box;
 	background: #fff;
+	box-sizing: border-box;
 }
 #Movies .movies-title{
 	width: 100%;
@@ -23,14 +23,9 @@
 	box-sizing: border-box;
 }
 #Movies .movies-list{
-	position: absolute;
 	width: 100%;
-	top: 45px;
-	bottom: 0;
-	left: 0;
-	padding: 0 15px;
 	box-sizing: border-box;
-	overflow: auto;
+	overflow: hidden;
 }
 #Movies .movies-list li{
 	width: 100%;
@@ -84,4 +79,7 @@
 
 #Movies .movies-list li p{
 	font-size: 12px;
+}
+#Movies .coming-soon li p:nth-of-type(3) span{
+	color: #ffb375;
 }
